@@ -1,0 +1,63 @@
+[23-Nov-2016 09:37:10 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gbennettilife/public_html/admin/connection.php:9) in /home/gbennettilife/public_html/admin/connection.php on line 12
+[23-Nov-2016 09:37:10 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/admin/controller.php on line 8
+[23-Nov-2016 10:02:48 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gbennettilife/public_html/admin/connection.php:9) in /home/gbennettilife/public_html/admin/connection.php on line 12
+[23-Nov-2016 10:02:48 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gbennettilife/public_html/admin/connection.php:9) in /home/gbennettilife/public_html/admin/controller.php on line 22
+[23-Nov-2016 10:03:21 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gbennettilife/public_html/admin/connection.php:9) in /home/gbennettilife/public_html/admin/connection.php on line 12
+[23-Nov-2016 10:03:21 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/admin/controller.php on line 8
+[01-Dec-2016 15:09:35 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'l.status' in 'where clause'' in /home/gbennettilife/public_html/admin/viewLeft.php:17
+Stack trace:
+#0 /home/gbennettilife/public_html/admin/viewLeft.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/gbennettilife/public_html/admin/viewLeft.php on line 17
+[01-Dec-2016 15:10:00 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'l.status' in 'where clause'' in /home/gbennettilife/public_html/admin/viewLeft.php:17
+Stack trace:
+#0 /home/gbennettilife/public_html/admin/viewLeft.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/gbennettilife/public_html/admin/viewLeft.php on line 17
+[01-Dec-2016 15:10:28 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'l.status' in 'where clause'' in /home/gbennettilife/public_html/admin/viewLeft.php:17
+Stack trace:
+#0 /home/gbennettilife/public_html/admin/viewLeft.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/gbennettilife/public_html/admin/viewLeft.php on line 17
+[01-Dec-2016 15:10:47 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'l.status' in 'where clause'' in /home/gbennettilife/public_html/admin/viewLeft.php:17
+Stack trace:
+#0 /home/gbennettilife/public_html/admin/viewLeft.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/gbennettilife/public_html/admin/viewLeft.php on line 17
+[01-Dec-2016 15:11:58 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.status' in 'where clause'' in /home/gbennettilife/public_html/admin/viewSubType.php:18
+Stack trace:
+#0 /home/gbennettilife/public_html/admin/viewSubType.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/gbennettilife/public_html/admin/viewSubType.php on line 18
+[01-Dec-2016 15:13:00 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'l.status' in 'where clause'' in /home/gbennettilife/public_html/admin/viewLeft.php:17
+Stack trace:
+#0 /home/gbennettilife/public_html/admin/viewLeft.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/gbennettilife/public_html/admin/viewLeft.php on line 17
+[01-Dec-2016 15:14:25 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'l.status' in 'where clause'' in /home/gbennettilife/public_html/admin/viewLeft.php:17
+Stack trace:
+#0 /home/gbennettilife/public_html/admin/viewLeft.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/gbennettilife/public_html/admin/viewLeft.php on line 17
+[01-Dec-2016 15:15:10 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.status' in 'where clause'' in /home/gbennettilife/public_html/admin/viewSubType.php:18
+Stack trace:
+#0 /home/gbennettilife/public_html/admin/viewSubType.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/gbennettilife/public_html/admin/viewSubType.php on line 18
+[01-Dec-2016 15:15:46 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.status' in 'where clause'' in /home/gbennettilife/public_html/admin/viewHemera.php:18
+Stack trace:
+#0 /home/gbennettilife/public_html/admin/viewHemera.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/gbennettilife/public_html/admin/viewHemera.php on line 18
+[01-Dec-2016 15:15:55 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.status' in 'where clause'' in /home/gbennettilife/public_html/admin/viewZooker.php:18
+Stack trace:
+#0 /home/gbennettilife/public_html/admin/viewZooker.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/gbennettilife/public_html/admin/viewZooker.php on line 18
+[01-Dec-2016 15:17:29 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.status' in 'where clause'' in /home/gbennettilife/public_html/admin/viewSubType.php:18
+Stack trace:
+#0 /home/gbennettilife/public_html/admin/viewSubType.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/gbennettilife/public_html/admin/viewSubType.php on line 18
+[01-Dec-2016 15:31:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/gbennettilife/public_html/admin/addLeft.php on line 59
+[01-Dec-2016 15:32:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/gbennettilife/public_html/admin/addLeft.php on line 59

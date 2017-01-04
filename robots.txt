@@ -1,4 +1,6 @@
-# robotstxt.org/
-
-User-agent: * 
-Disallow:
+User-agent: *
+Disallow: /images/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fullscreen-slider/
+Disallow: /clip/
