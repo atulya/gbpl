@@ -9,14 +9,16 @@
   </head>
   <body>
     <?php include "header.php"; ?>
-    <div class="innerpageBanner animated flipInX">
-      <img src="images/social-responsiblity.png" alt="Social Responsibility">
+    <div class="innerpageBanner animated flipInX bannerimg-social-responsiblity">
+      <!-- <img src="images/social-responsiblity.png" alt="Social Responsibility"> -->
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center">
-            <h3>
-               Enriching billion lives around the globe 
-            </h3>
+          <div class="col-md-12 text-center caption-container">
+            <div class="caption-ovelay blue caption-box">
+              <h3>
+                 Enriching billion lives around the globe 
+              </h3>
+            </div>
           </div>
         </div>
       </div>

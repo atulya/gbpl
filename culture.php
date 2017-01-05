@@ -9,11 +9,12 @@
   </head>
   <body>
     <?php include "header.php"; ?>
-    <div class="innerpageBanner animated flipInX">
-      <img src="images/culture.png" alt="culture">
+    <div class="innerpageBanner animated flipInX bannerimg-culture">
+      <!-- <img src="images/culture.png" alt="culture"> -->
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center">
+          <div class="col-md-12 text-center caption-container">
+            <div class="caption-ovelay blue caption-box">
             <h3>
                  Bliss, Brilliance &amp; Benevolence
             </h3>

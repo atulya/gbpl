@@ -9,15 +9,17 @@
   </head>
   <body>
     <?php include "header.php"; ?>
-    <div class="innerpageBanner animated flipInX">
-      <img src="images/core-ideology.png" alt="core-ideology">
+    <div class="innerpageBanner animated flipInX bannerimg-coreideology">
+<!--       <img src="images/core-ideology.png" alt="core-ideology"> -->
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center">
-            <h3>
-            <!-- Dawn of a new Life of Sovereignty. Embrace. Expand. Enrich to Perpetuity -->
-            Life is blessing. Embrace. Expand. Enrich. 
-            </h3>
+          <div class="col-md-12 text-center caption-container">
+            <div class="caption-ovelay blue caption-box">
+              <h3>
+              <!-- Dawn of a new Life of Sovereignty. Embrace. Expand. Enrich to Perpetuity -->
+              Life is blessing. Embrace. Expand. Enrich. 
+              </h3>
+            </div>
           </div>
         </div>
       </div>

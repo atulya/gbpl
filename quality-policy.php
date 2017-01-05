@@ -9,14 +9,16 @@
   </head>
   <body>
     <?php include "header.php"; ?>
-    <div class="innerpageBanner animated flipInX">
-      <img src="images/quality-policy.png" alt="Quality Policy">
+    <div class="innerpageBanner animated flipInX bannerimg-policy">
+      <!-- <img src="images/quality-policy.png" alt="Quality Policy"> -->
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center">
-            <h3>
-             Quality benchmarks exacted with integrity    
-            </h3>
+          <div class="col-md-12 text-center caption-container">
+            <div class="caption-ovelay blue caption-box">
+              <h3>
+               Quality benchmarks exacted with integrity    
+              </h3>
+            </div>
           </div>
         </div>
       </div>

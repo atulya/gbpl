@@ -188,7 +188,7 @@ a {
   text-align: center;
   position: relative;
 }
-.innerpageBanner:before{
+/*.innerpageBanner:before{
   content: "";
   width: 100%;
   height: 150px;
@@ -199,7 +199,7 @@ a {
   left: 0;
   bottom: 0;
   z-index: 0;
-}
+}*/
 .innerpageBanner img{
   width: 100%;
   height: 400px;
@@ -754,7 +754,105 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
 .bannerimg-snapshot{
   background-image:url(../images/snap-shot.png);
 }
-
+.bannerimg-family{
+  background-image:url(../images/Family.jpg); 
+}
+.bannerimg-vision{
+  background-image:url(../images/vision-mission.png); 
+}
+.bannerimg-coreideology{
+  background-image:url(../images/core-ideology.png); 
+}
+.bannerimg-corevalues{
+  background-image:url(../images/core-values.png); 
+}
+.bannerimg-corestrength{
+  background-image:url(../images/core-values.png); 
+}
+.bannerimg-corporate-identity{
+  background-image:url(../images/corporate-identity.png); 
+}
+.bannerimg-brand-logography{
+  background-image:url(../images/brand-logography.png); 
+}
+.bannerimg-social-responsiblity{
+  background-image:url(../images/social-responsiblity.png); 
+}
+.bannerimg-zooker-banner{
+  background-image:url(../images/zooker-banner.png); 
+}
+.bannerimg-herbnatural-re{
+  background-image:url(../images/herbal-naturals-renaissant.png); 
+}
+.bannerimg-hcsupplies-hemera{
+  background-image:url(../images/healthcare-supplies-hemera.png); 
+}
+.bannerimg-researchinnovation{
+  background-image:url(../images/ResearchInnovation.jpg); 
+}
+.bannerimg-manufacturing{
+  background-image:url(../images/manufacturing.jpg); 
+}
+.bannerimg-production{
+  background-image:url(../images/production-facilities.png); 
+}
+.bannerimg-competencies{
+  background-image:url(../images/manufacturing-competencies.png); 
+}
+.bannerimg-capabilities{
+  background-image:url(../images/manufacturing-capabilities.png); 
+}
+.bannerimg-assurance{
+  background-image:url(../images/quality-capabilities-assurance.png); 
+}
+.bannerimg-quality-capabilities{
+  background-image:url(../images/quality-control-assurance.png); 
+}
+.bannerimg-policy{
+  background-image:url(../images/quality-policy.png); 
+}
+.bannerimg-supplychain{
+  background-image:url(../images/SupplyChain.png); 
+}
+.bannerimg-compliance{
+  background-image:url(../images/regulatory-compliance.png); 
+}
+.bannerimg-techdev{
+  background-image:url(../images/technical-development.png); 
+}
+.bannerimg-manufacturing{
+  background-image:url(../images/contract-manufacturing.png); 
+}
+.bannerimg-techtransfer{
+  background-image:url(../images/technology-transfer.png); 
+}
+.bannerimg-trade-supply{
+  background-image:url(../images/trade-supply.png); 
+}
+.bannerimg-key{
+  background-image:url(../images/turn-key-projects.png); 
+}
+.bannerimg-partnership{
+  background-image:url(../images/preferential-partnership.png); 
+}
+.bannerimg-global-sourcing{
+  background-image:url(../images/global-sourcing.png); 
+}
+.bannerimg-globalnw{
+  background-image:url(../images/International-biz.jpg); 
+}
+.bannerimg-indiabiz{
+  background-image:url(../images/india-business.png); 
+}
+.bannerimg-hr{
+  background-image:url(../images/india-business.png); 
+}
+.bannerimg-lifegbpl{
+  background-image:url(../images/life-at-gbpl.png); 
+}
+.bannerimg-culture{
+  background-image:url(../images/culture.png); 
+}
 /* Banner Text and Overlay */
 .caption-container{ padding-top: 250px; }
 .caption-overlay{

@@ -9,14 +9,16 @@
   </head>
   <body>
     <?php include "header.php"; ?>
-    <div class="innerpageBanner animated flipInX">
-      <img src="images/corporate-identity.png" alt="corporate-identity">
+    <div class="innerpageBanner animated flipInX bannerimg-corporate-identity">
+      <!-- <img src="images/corporate-identity.png" alt="corporate-identity"> -->
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center">
-            <h3>
-            For lustrous and illustrious Life
-            </h3>
+          <div class="col-md-12 text-center caption-container">
+            <div class="caption-ovelay blue caption-box">
+              <h3>
+              For lustrous and illustrious Life
+              </h3>
+            </div>
           </div>
         </div>
       </div>
