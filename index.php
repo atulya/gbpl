@@ -206,7 +206,7 @@
         <div class="closeClipBtn">Skip <i class="glyphicon glyphicon-remove"></i></div>
       </a></div>
       <div class="mText">
-<iframe width="100%" height="640" src="https://www.youtube.com/embed/slxdBQIqq2U?controls=0&showinfo=0&rel=0&autoplay=1&loop=1&playlist=W0LHTWG-UmQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="640" src="https://www.youtube.com/embed/slxdBQIqq2U?controls=0&showinfo=0&rel=0&autoplay=1&loop=0&playlist=W0LHTWG-UmQ" frameborder="0" allowfullscreen></iframe>
 <!--         <video id="video1" class="video-js vjs-default-skin" width="100%" height="640" data-setup='{"controls" : false, "autoplay" : true, "preload" : "auto"}'>
           <source src="clip/final.flv" type="video/x-flv">
         </video> -->
@@ -224,7 +224,7 @@ function model(mContent){
   $( ".overlay" ).fadeIn();
   $('.mText').html(mContent);
   $( ".close" ).on('click', function() {
-    $( ".overlay" ).hide();
+    $( ".overlay" ).remove();
   });
 }
 var bac = ""
@@ -233,8 +233,8 @@ $(document).ready(function() {
   model();
 });
 setTimeout(function(){
-  $('.overlay').fadeOut("slow")
-  }, 60000); 
+  $('.overlay').remove();
+  }, 120000); 
 </script>
 <script type="text/javascript"> 
   $(function() {
