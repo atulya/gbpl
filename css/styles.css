@@ -466,15 +466,15 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
   left:0px;
   right:0px;
   display:none;
-  padding-top: 20px;
+  /*padding-top: 20px;*/
   z-index: 20;
 }
 .modelBox {
   width:98%;
   height:96vh;
   margin:0px auto;
-  background-color:#fff;
-  top:10%;
+  /*background-color:#fff;*/
+  /*top:10%;*/
   position:relative;
   opacity:1;
 }
@@ -486,10 +486,10 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
   width: 70px;
   position: absolute;
   right: -10px;
-  top: -20px;
+  top: 200px;
   font-size: 17px;
   color: #fff;
-  z-index: 1;
+  z-index: 10;
 }
 .close {
   float: right;
