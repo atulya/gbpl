@@ -14,9 +14,9 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12 text-center caption-container">
-          <div class="caption-ovelay blue caption-box">
-            <h3>Multi-faceted, Research oriented &amp; global healthcare organization</h3> 
-          </div>
+            <div class="caption-ovelay blue caption-box">
+              <h3>Multi-faceted, Research oriented &amp; global healthcare organization</h3> 
+            </div>
           </div>
         </div>
       </div>

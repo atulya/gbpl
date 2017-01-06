@@ -9,14 +9,16 @@
   </head>
   <body>
     <?php include "header.php"; ?>
-    <div class="innerpageBanner animated flipInX">
-      <img src="images/global-sourcing.png" alt="global sourcing">
+    <div class="innerpageBanner animated flipInX bannerimg-global-sourcing">
+      <!-- <img src="images/global-sourcing.png" alt="global sourcing"> -->
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center">
-            <h3>
-              Low cost . high quality product-market access 
-            </h3>
+          <div class="col-md-12 text-center caption-container">
+            <div class="caption-ovelay blue caption-box">
+              <h3>
+                Low cost . high quality product-market access 
+              </h3>
+            </div>
           </div>
         </div>
       </div>

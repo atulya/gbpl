@@ -11,14 +11,16 @@
   <div class="headerAboutus">
       <?php include "header.php"; ?>
   </div>
-    <div class="innerpageBanner animated flipInX">
-      <img src="images/india-business.png" alt="India business">
+    <div class="innerpageBanner animated flipInX bannerimg-indiabiz">
+      <!-- <img src="images/india-business.png" alt="India business"> -->
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center">
-            <h3>
-              Health, happiness &amp; well being for all
-            </h3>
+          <div class="col-md-12 text-center caption-container">
+            <div class="caption-ovelay blue caption-box">
+              <h3>
+                Health, happiness &amp; well being for all
+              </h3>
+            </div>
           </div>
         </div>
       </div>

@@ -9,6 +9,7 @@
   </head>
   <body>
     <?php include "header.php"; ?>
+    
     <div class="homeBanner">
       <div class="demo-2">
       <div id="slider" class="sl-slider-wrapper">

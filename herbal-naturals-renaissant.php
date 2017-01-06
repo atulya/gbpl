@@ -9,14 +9,16 @@
   </head>
   <body>
     <?php include "header.php"; ?>
-    <div class="innerpageBanner animated flipInX">
-      <img src="images/herbal-naturals-renaissant.png" alt="herbal naturals renaissant">
+    <div class="innerpageBanner animated flipInX bannerimg-herbnatural-re">
+      <!-- <img src="images/herbal-naturals-renaissant.png" alt="herbal naturals renaissant"> -->
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center">
-            <h3>
-             Simply... the nature's ally
-            </h3>
+          <div class="col-md-12 text-center caption-container">
+            <div class="caption-ovelay blue caption-box">
+              <h3>
+               Simply... the nature's ally
+              </h3>
+            </div>
           </div>
         </div>
       </div>

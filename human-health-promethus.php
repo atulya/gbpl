@@ -11,12 +11,14 @@
     <div class="humanHealth">
       <?php include "header.php"; ?>
     </div>
-    <div class="innerpageBanner animated flipInX">
-      <img src="images/human-health-promethus.png" alt="human health promethus">
+    <div class="innerpageBanner animated flipInX bannerimg-humanhealth-pro">
+      <!-- <img src="images/human-health-promethus.png" alt="human health promethus"> -->
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center">
-            <h3> Our Ode to humanity </h3>
+          <div class="col-md-12 text-center caption-container">
+            <div class="caption-ovelay blue caption-box">
+              <h3> Our Ode to humanity </h3>
+            </div>
           </div>
         </div>
       </div>

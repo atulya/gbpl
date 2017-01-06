@@ -9,14 +9,16 @@
   </head>
   <body
 >    <?php include "header.php"; ?>
-    <div class="innerpageBanner animated flipInX">
-      <img src="images/regulatory-compliance.png" alt="Regulatory Compliance">
+    <div class="innerpageBanner animated flipInX bannerimg-compliance">
+      <!-- <img src="images/regulatory-compliance.png" alt="Regulatory Compliance"> -->
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center">
-            <h3>
-                'Right First Time every time, Surpassing regulatory standards' 
-            </h3>
+          <div class="col-md-12 text-center caption-container">
+            <div class="caption-ovelay blue caption-box">
+              <h3>
+                  'Right First Time every time, Surpassing regulatory standards' 
+              </h3>
+            </div>
           </div>
         </div>
       </div>

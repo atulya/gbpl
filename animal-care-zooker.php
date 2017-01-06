@@ -9,14 +9,16 @@
   </head>
   <body>
     <?php include "header.php"; ?>
-    <div class="innerpageBanner animated flipInX">
-      <img src="images/zooker-banner.png" alt="animal care zooker">
+    <div class="innerpageBanner animated flipInX bannerimg-zooker-banner">
+      <!-- <img src="images/zooker-banner.png" alt="animal care zooker"> -->
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center">
-            <h3 class="animated bounceIn">
-              Caring muted partners  
-            </h3>
+          <div class="col-md-12 text-center caption-container">
+            <div class="caption-ovelay blue caption-box">
+              <h3 class="animated bounceIn">
+                Caring muted partners  
+              </h3>
+            </div>
           </div>
         </div>
       </div>

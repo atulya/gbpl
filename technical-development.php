@@ -9,14 +9,16 @@
   </head>
   <body>
     <?php include "header.php"; ?>
-    <div class="innerpageBanner animated flipInX">
-      <img src="images/technical-development.png" alt="technical development">
+    <div class="innerpageBanner animated flipInX bannerimg-techdev">
+      <!-- <img src="images/technical-development.png" alt="technical development"> -->
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center">
-            <h3>
-            Small molecules to therapeutic proteins to herbal dosages
-            </h3>
+          <div class="col-md-12 text-center caption-container">
+            <div class="caption-ovelay blue caption-box">
+              <h3>
+              Small molecules to therapeutic proteins to herbal dosages
+              </h3>
+            </div>
           </div>
         </div>
       </div>
