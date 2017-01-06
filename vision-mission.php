@@ -60,7 +60,7 @@
 							related needs and wants consistently at right time in right proportion at right place.</li>
             </ul>
           </p> -->
-          <img src="images/visionmission.gif" alt="Vision Mision">
+          <img src="images/VisionMision.jpg" alt="Vision Mision">
           <?php include "usp.php"; ?>
           <a href="core-ideology.php" class="pull-right">Next - Core Ideology <i class="glyphicon glyphicon-chevron-right"></i></a>
     </div>

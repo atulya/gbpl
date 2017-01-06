@@ -34,7 +34,7 @@
         <div class="col-md-9">
             <h3>Brand Logography</h3>
           <div style="border: 1px solid #005995;">
-            <img src="images/Poem_Brand_Logography.jpg" alt="">
+            <img src="images/Poem-Brand-Logography_smooth-text.jpg" alt="">
           </div>
            <?php include "usp.php"; ?>
     <a href="social-responsiblity.php" class="pull-right">Next - Social Responsiblity<i class="glyphicon glyphicon-chevron-right"></i></a>
