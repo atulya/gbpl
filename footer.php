@@ -26,7 +26,20 @@
 </li>
 <li class="col-md-3">
 	<ul>
-		<li class="text-right"><i class="fa fa-facebook-square"></i><i class="fa fa-twitter-square"></i><i class="fa fa-google-plus-square"></i><i class="fa fa-linkedin-square"></i></li>
+		<li class="text-right">
+			<a href="https://twitter.com/gbennettilife" target="_blank">
+				<i class="fa fa-twitter-square"></i>
+			</a>
+			<a href="https://www.facebook.com/gbennettilife/" target="_blank">
+				<i class="fa fa-facebook-square"></i>
+			</a>
+			<a href="https://plus.google.com/u/2/114115452834607783382" target="_blank">
+				<i class="fa fa-google-plus-square"></i>
+			</a>
+			<a href="javascript:void(0);">
+				<i class="fa fa-linkedin-square"></i>
+			</a>
+		</li>
 	</ul>
 </li>
 </ul>
