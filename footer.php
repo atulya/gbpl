@@ -36,7 +36,7 @@
 			<a href="https://plus.google.com/u/2/114115452834607783382" target="_blank">
 				<i class="fa fa-google-plus-square"></i>
 			</a>
-			<a href="javascript:void(0);">
+			<a href="https://in.linkedin.com/in/gbennetti-life">
 				<i class="fa fa-linkedin-square"></i>
 			</a>
 		</li>

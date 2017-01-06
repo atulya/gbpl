@@ -34,7 +34,7 @@
         </div>
         <h3 style="font-weight:bold;">Quality Policy</h3> 
         <div class="col-md-9">
-          <img src="images/QualityPolicy.jpg" alt="QualityPolicy">
+          <img src="images/Qulity-Policy_smooth-text.jpg" alt="QualityPolicy">
           <!-- <p>
             <ul>
               <li>  We shall remain unequivocally persistent in implementing our Global Quality philosophy at all levels.</li>
