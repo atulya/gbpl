@@ -877,3 +877,13 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
   margin: 0 auto;
   position: inherit;
 }
+.watermark{
+  background-image: url(../images/logo-watermark.png); 
+  background-repeat: no-repeat;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  height: auto;
+  z-index: 0;
+  background-position: center center;
+}
