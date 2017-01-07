@@ -78,7 +78,7 @@ $div_count = $statement_div->rowCount();
   <div class="tab-content">
     <?php if(isset($div_count)){ $count = 0; while($row = $statement_div->fetch(PDO::FETCH_ASSOC)){  ?>
     <div role="tabpanel" class="tab-pane <?php if($count == 0){ echo 'active'; } ?>" id="<?php echo $row['id']; ?>">
-      <table class="table table-bordered table-striped">
+      <table class="table table-bordered watermark"><!--table-striped-->
         <tbody>
           <tr class="table-heading">
             <td rowspan="1" colspan="4"><?php echo $row['subtype_name']; ?></td>
