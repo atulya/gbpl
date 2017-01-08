@@ -13,8 +13,8 @@
 <!--       <img src="images/vision-mission.png" alt="corporate philosophy"> -->
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center caption-container">
-            <div class="caption-ovelay blue caption-box">
+          <div class="col-md-12 text-center caption-container caption-center">
+            <div class="caption-ovelay color-darkBrown caption-box">
                 <h3>
                 Towards healthier disease-free world of tomorrow 
                 </h3>

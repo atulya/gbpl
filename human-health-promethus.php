@@ -15,8 +15,8 @@
       <!-- <img src="images/human-health-promethus.png" alt="human health promethus"> -->
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center caption-container">
-            <div class="caption-ovelay blue caption-box">
+          <div class="col-md-12 text-center caption-container caption-bottom">
+            <div class="caption-ovelay color-peacockBlue caption-box">
               <h3> Our Ode to humanity </h3>
             </div>
           </div>

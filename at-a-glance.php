@@ -13,8 +13,8 @@
       <!-- <img src="images/snap-shot.png" alt="snap shot"> -->
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center caption-container">
-            <div class="caption-ovelay blue caption-box">
+          <div class="col-md-12 text-center caption-container caption-bottom">
+            <div class="caption-ovelay color-lightGreen caption-box">
               <h3>Multi-faceted, Research oriented &amp; global healthcare organization</h3> 
             </div>
           </div>

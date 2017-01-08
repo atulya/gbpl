@@ -13,8 +13,8 @@
  <!--      <img src="images/core-values.png" alt="core-ideology"> -->
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center caption-container">
-            <div class="caption-ovelay blue caption-box">
+          <div class="col-md-12 text-center caption-container caption-bottom">
+            <div class="caption-ovelay color-sunflower caption-box pull-right">
               <h3>
               Bliss. Brilliance. Benevolence. Celebration of Life! 
               </h3>
