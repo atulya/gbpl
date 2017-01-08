@@ -13,8 +13,8 @@
       <!-- <img src="images/manufacturing.jpg" alt="Research Innovation"> -->
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center caption-container">
-            <div class="caption-ovelay blue caption-box">
+          <div class="col-md-12 text-center caption-container caption-center">
+            <div class="caption-ovelay color-darkBrown caption-box">
               <h3>
               Ideation to implementation – NDDS to ADDS
               </h3>

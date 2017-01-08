@@ -13,8 +13,8 @@
       <!-- <img src="images/social-responsiblity.png" alt="Social Responsibility"> -->
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center caption-container">
-            <div class="caption-ovelay blue caption-box">
+          <div class="col-md-12 text-center caption-container caption-center">
+            <div class="caption-ovelay color-orange caption-box pull-right">
               <h3>
                  Enriching billion lives around the globe 
               </h3>

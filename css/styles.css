@@ -767,7 +767,7 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
   background-image:url(../images/core-values.png); 
 }
 .bannerimg-corestrength{
-  background-image:url(../images/core-values.png); 
+  background-image:url(../images/core-strengths.png); 
 }
 .bannerimg-corporate-identity{
   background-image:url(../images/corporate-identity.png); 
@@ -777,6 +777,9 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
 }
 .bannerimg-social-responsiblity{
   background-image:url(../images/social-responsiblity.png); 
+}
+.bannerimg-humanhealth-pro{
+  background-image:url(../images/human-health-promethus.png); 
 }
 .bannerimg-zooker-banner{
   background-image:url(../images/zooker-banner.png); 
@@ -854,7 +857,9 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
   background-image:url(../images/culture.png); 
 }
 /* Banner Text and Overlay */
-.caption-container{ padding-top: 250px; }
+.caption-top{ padding-top: 60px;}
+.caption-bottom{ padding-top: 250px;}
+.caption-center{ padding-top: 165px;}
 .caption-overlay{
   background: transparent;
   width: 75%;
@@ -862,11 +867,43 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
   max-height: 300px;
   overflow: hidden;
 }
-.caption-ovelay.blue{
-  background: rgba(0,144,197,0.65);
+[class*="color-"] {
   display: inline-block;
   padding: 10px 10px 0 10px;
-} 
+}
+.caption-ovelay.color-black{
+  background: rgba(0,0,0,0.65);
+}
+.caption-ovelay.color-red{
+  background: rgba(231,76,60,0.65);
+}
+.caption-ovelay.color-blue{
+  background: rgba(0,144,197,0.65);
+}
+.caption-ovelay.color-midnightBlue{
+  background: rgba(44,62,80,0.65);
+}
+.caption-ovelay.color-peacockBlue{
+  background: rgba(3,19,112,0.65);
+}
+.caption-ovelay.color-lightGreen{
+  background: rgba(67,179,25,0.65);
+}
+.caption-ovelay.color-darkBrown{
+  background: rgba(15,3,2,0.65);
+}
+.caption-ovelay.color-turquoise{
+  background: rgba(26,188,156,0.65);
+}
+.caption-ovelay.color-sunflower{
+  background: rgba(241,196,15,0.65);
+}
+.caption-ovelay.color-orange{
+  background: rgba(243,156,18,0.65);
+}
+.caption-ovelay.color-wisteria{
+  background: rgba(142,68,173,0.65);
+}
 .caption-box{ padding: 5px 15px; }
 .caption-box h3{  
   color: #fff;
@@ -876,6 +913,7 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
   text-shadow: 0px 0px 5px #000;
   margin: 0 auto;
   position: inherit;
+  padding: 5px 0;
 }
 .watermark{
   background-image: url(../images/logo-watermark.png); 

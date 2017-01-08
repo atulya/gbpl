@@ -13,8 +13,8 @@
       <!-- <img src="images/corporate-identity.png" alt="corporate-identity"> -->
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center caption-container">
-            <div class="caption-ovelay blue caption-box">
+          <div class="col-md-12 text-center caption-container caption-top">
+            <div class="caption-ovelay color-midnightBlue caption-box pull-left">
               <h3>
               For lustrous and illustrious Life
               </h3>
