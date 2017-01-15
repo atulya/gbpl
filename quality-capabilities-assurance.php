@@ -13,8 +13,8 @@
       <!-- <img src="images/quality-control-assurance.png" alt="Quality Capabilities"> -->
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center caption-container">
-            <div class="caption-ovelay blue caption-box">
+          <div class="col-md-12 text-center caption-container caption-bottom">
+            <div class="caption-ovelay color-peacockBlue caption-box pull-left">
               <h3>
               State -of–the-art -quality infrastructure 
               </h3>

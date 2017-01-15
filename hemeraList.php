@@ -44,14 +44,16 @@ $div_count = $statement_div->rowCount();
   </head>
   <body>
     <?php include "header.php"; ?>
-    <div class="innerpageBanner">
-      <img src="images/hemera.png" alt="promethus">
+    <div class="innerpageBanner animated flipInX bannerimg-hemeraList">
+      <!-- <img src="images/hemera.png" alt="promethus"> -->
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center">
-            <h3>
-            Diagnostics to consumables
-            </h3>
+          <div class="col-md-12 text-center caption-container caption-bottom">
+            <div class="caption-ovelay color-peacockBlue caption-box">
+              <h3>
+              Diagnostics to consumables
+              </h3>
+            </div>
           </div>
         </div>
       </div>

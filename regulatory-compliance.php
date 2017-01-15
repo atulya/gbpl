@@ -13,8 +13,8 @@
       <!-- <img src="images/regulatory-compliance.png" alt="Regulatory Compliance"> -->
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center caption-container">
-            <div class="caption-ovelay blue caption-box">
+          <div class="col-md-12 text-center caption-container caption-bottom">
+            <div class="caption-ovelay color-darkBrown caption-box">
               <h3>
                   'Right First Time every time, Surpassing regulatory standards' 
               </h3>

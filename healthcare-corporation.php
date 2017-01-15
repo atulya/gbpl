@@ -38,19 +38,25 @@
           <h3>Heading Three</h3> -->
           <h3> Welcome to GBennetti group</h3>
           <p>
-           GBennetti is a healthcare corporation inborn to bless the lives of billions around the world with our innovative cost-effective range of healthcare products and services that enliven the quality of Living and wellbeing.
+           GBennetti  is a global healthcare incorporation of a leading logistics corporation First Maritime Pvt Ltd(FMPL), India. Gbennetti Biolabs (P) Ltd (GBPL) is inborn to bless the lives of billions around the world with its innovative cost-effective range of healthcare products and services that enliven the quality of Living and wellbeing.
             <br />
             <br />
-            Giving a benevolent healing hand in burgeoning healthcare, GBennetti has evolved fundamentally as a specialized healthcare group focused on human health, animal care, herbal naturals and healthcare supplies as its primary business offerings. We are committed to deliver sustainable, affordable and reliable pedigree of innovative qualitative solutions for betterment of Life and the Living.  
+            Giving a benevolent healing hand in burgeoning healthcare, GBennetti has evolved fundamentally as a specialized healthcare group focused on human health, animal care, herbal naturals and healthcare or hospital supplies as its primary business offerings. We are committed to deliver sustainable affordable and reliable pedigree of innovative qualitative solutions for betterment of Life and the Living. Ourendeavor is to make healthcare experience affordable, accessible and all-inclusive for the global population. Health, Happiness and Wellbeing for all is our motto.  
             <br />
             <br />
-            With global representation, the group stands tall on its levers of cutting-edge science, operational brilliance, intellectual meritocracy, insightful technology, world-class capabilities and dynamic supply chain leveraging state-of-the art global capacities.
+            The group stands tall on its levers of cutting-edge science, operational brilliance, intellectual meritocracy, insightful technology, world-class capabilities and dynamic supply chain leveraging state-of-the art global capacities
             <br />
             <br />
-            Our cost-effective bio-comparative high quality generics help progressing human life and animal health in critical life-threatening conditions as well as Lifestyle conditions providing real value for money. Our bio-devices specialty products alleviate the pain and the sufferings by both diagnostic and treatment measures.  While herbal range offerings provide standardized nutritional value and enriched personal care in all its endeavors.
+            Our cost-effective bio-comparative high quality generics (Pharma generics to Bio generics range) help progressing human life and animal health in critical life-threatening conditions as well as Lifestyle conditions providing real value for money. Our healthcare supplies range, which includes bio-devices, alleviate the pain and the sufferings by both diagnostic and treatment measures.  While herbal range offerings provide standardized nutritional value and enriched personal care in all its endeavors.
             <br />
             <br />
-            Life is now a blessing-omnipotent, omnipresent and omniscient! Embrace. Expand.Enrich. 
+            With the adaptation of science and technology by both qualitative and quantitativemeans, we work towards making the whole of healthcare a superior and favorable experience for everyone in the value chain- Patients/Consumers, Practioners/Doctors, Pharmacist/Retailers. 
+            <br />
+            <br />
+            Life is now a blessing-omnipotent, omnipresent and omniscient!
+            <br />
+            <br />
+            Embrace. Expand.Enrich. 
           </p>
           <?php include 'usp.php'; ?>
           <a href="snap-shot.php" class="pull-right">Next - Overview <i class="glyphicon glyphicon-chevron-right"></i></a>
