@@ -13,8 +13,8 @@
       <!-- <img src="images/human-resources.png" alt="human resources"> -->
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center caption-container">
-            <div class="caption-ovelay blue caption-box">
+          <div class="col-md-12 text-center caption-container caption-top">
+            <div class="caption-ovelay color-black caption-box">
               <h3>
                 Evolve. Empower. Excel.
               </h3>

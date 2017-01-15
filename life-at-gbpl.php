@@ -13,8 +13,8 @@
       <!-- <img src="images/life-at-gbpl.png" alt="lifea t gbpl"> -->
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center caption-container">
-            <div class="caption-ovelay blue caption-box">
+          <div class="col-md-12 text-center caption-container caption-bottom">
+            <div class="caption-ovelay color-turquoise caption-box pull-right">
               <h3>
                  Nurturing Leaders, Nourishing Excellence
               </h3>

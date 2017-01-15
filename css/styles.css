@@ -820,6 +820,18 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
 .bannerimg-compliance{
   background-image:url(../images/regulatory-compliance.png); 
 }
+.bannerimg-promethusList{
+  background-image:url(../images/promethusBanner.png); 
+}
+.bannerimg-zookerList{
+  background-image:url(../images/animal-care-zooker.png); 
+}
+.bannerimg-renaissanList{
+  background-image:url(../images/renaissant.png); 
+}
+.bannerimg-hemeraList{
+  background-image:url(../images/hemera.png); 
+}
 .bannerimg-techdev{
   background-image:url(../images/technical-development.png); 
 }
@@ -848,7 +860,7 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
   background-image:url(../images/india-business.png); 
 }
 .bannerimg-hr{
-  background-image:url(../images/india-business.png); 
+  background-image:url(../images/human-resources.png); 
 }
 .bannerimg-lifegbpl{
   background-image:url(../images/life-at-gbpl.png); 
@@ -875,6 +887,9 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
   background: rgba(0,0,0,0.65);
 }
 .caption-ovelay.color-red{
+  background: rgba(231,76,60,0.65);
+}
+.caption-ovelay.color-pomegranate{
   background: rgba(231,76,60,0.65);
 }
 .caption-ovelay.color-blue{

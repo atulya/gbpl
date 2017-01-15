@@ -13,8 +13,8 @@
       <!-- <img src="images/quality-capabilities-assurance.png" alt="Quality Assurance"> -->
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center caption-container">
-            <div class="caption-ovelay blue caption-box">
+          <div class="col-md-12 text-center caption-container caption-bottom">
+            <div class="caption-ovelay color-pomegranate caption-box">
               <h3>
                 Quality at its apostrophic value. World class quality certifications
               </h3>

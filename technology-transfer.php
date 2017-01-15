@@ -13,8 +13,8 @@
       <!-- <img src="images/technology-transfer.png" alt="technology transfer"> -->
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center caption-container">
-            <div class="caption-ovelay blue caption-box">
+          <div class="col-md-12 text-center caption-container caption-bottom">
+            <div class="caption-ovelay color-wisteria caption-box ">
               <h3>
                 Product specific alliances for outlicensing or inlicensing
               </h3>

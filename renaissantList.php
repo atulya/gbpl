@@ -118,14 +118,16 @@ function getTitle($title_id){
   </head>
   <body>
     <?php include "header.php"; ?>
-    <div class="innerpageBanner">
-      <img src="images/renaissant.png" alt="promethus">
+    <div class="innerpageBanner animated flipInX bannerimg-renaissanList">
+      <!-- <img src="images/renaissant.png" alt="promethus"> -->
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center">
-            <h3>
-            Ailing &amp; Alleviating naturally. Assurity of  purity and potency. 
-            </h3>
+          <div class="col-md-12 text-center caption-container caption-bottom">
+            <div class="caption-ovelay color-turquoise caption-box">
+              <h3>
+              Ailing &amp; Alleviating naturally. Assurity of  purity and potency. 
+              </h3>
+            </div>
           </div>
         </div>
       </div>

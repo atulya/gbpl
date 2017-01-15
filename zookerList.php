@@ -44,14 +44,16 @@ $div_count = $statement_div->rowCount();
   </head>
   <body>
     <?php include "header.php"; ?>
-    <div class="innerpageBanner">
-      <img src="images/animal-care-zooker.png" alt="promethus">
+    <div class="innerpageBanner animated flipInX bannerimg-zookerList">
+      <!-- <img src="images/animal-care-zooker.png" alt="promethus"> -->
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center">
-            <h3>
-            Caressing companion to farm animals from head to toe
-            </h3>
+          <div class="col-md-12 text-center caption-container caption-bottom">
+            <div class="caption-ovelay color-black caption-box">
+              <h3>
+              Caressing companion to farm animals from head to toe
+              </h3>
+            </div> 
           </div>
         </div>
       </div>

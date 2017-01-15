@@ -13,11 +13,12 @@
       <!-- <img src="images/culture.png" alt="culture"> -->
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center caption-container">
-            <div class="caption-ovelay blue caption-box">
+          <div class="col-md-12 text-center caption-container caption-center">
+            <div class="caption-ovelay color-pomegranate caption-box">
             <h3>
                  Bliss, Brilliance &amp; Benevolence
             </h3>
+            </div>
           </div>
         </div>
       </div>

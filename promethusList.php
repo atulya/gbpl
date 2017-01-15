@@ -44,14 +44,16 @@ $div_count = $statement_div->rowCount();
   </head>
   <body>
     <?php include "header.php"; ?>
-    <div class="innerpageBanner">
-      <img src="images/promethusBanner.png" alt="promethus">
+    <div class="innerpageBanner animated flipInX bannerimg-promethusList">
+      <!-- <img src="images/promethusBanner.png" alt="promethus"> -->
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center">
-            <h3>
-            Critical care to chronic care therapy areas
-            </h3>
+          <div class="col-md-12 text-center caption-container caption-center">
+            <div class="caption-ovelay color-red caption-box">
+              <h3>
+              Critical care to chronic care therapy areas
+              </h3>
+            </div>
           </div>
         </div>
       </div>

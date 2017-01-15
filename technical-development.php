@@ -13,8 +13,8 @@
       <!-- <img src="images/technical-development.png" alt="technical development"> -->
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center caption-container">
-            <div class="caption-ovelay blue caption-box">
+          <div class="col-md-12 text-center caption-container caption-top">
+            <div class="caption-ovelay color-blue caption-box">
               <h3>
               Small molecules to therapeutic proteins to herbal dosages
               </h3>
