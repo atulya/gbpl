@@ -18,7 +18,7 @@
           <div class="col-md-12 text-center caption-container caption-bottom">
             <div class="caption-ovelay color-blue caption-box">
               <h3>
-                Health, happiness &amp; well being for all
+                Spearheading Indian Heritage
               </h3>
             </div>
           </div>
