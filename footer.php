@@ -40,6 +40,19 @@
 				<i class="fa fa-linkedin-square"></i>
 			</a>
 		</li>
+		<li class="text-right">
+			<script type="text/javascript" src="https://secure.skypeassets.com/i/scom/js/skype-uri.js"></script>
+			<div id="SkypeButton_Call_mayureshrs_1">
+			 <script type="text/javascript">
+			 Skype.ui({
+			 "name": "chat",
+			 "element": "SkypeButton_Call_mayureshrs_1",
+			 "participants": ["mayureshrs"],
+			 "imageSize": 24
+			 });
+			 </script>
+			</div>
+		</li>
 	</ul>
 </li>
 </ul>
