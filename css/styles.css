@@ -181,7 +181,7 @@ a {
 /*  height: 85%;*/
   position: relative;
   background-color: #f1f1f1;
-  z-index: -1;
+/*  z-index: -1;*/
 }
 .innerpageBanner{
   height: 400px;
@@ -696,7 +696,7 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
   .footerBckg ul{
     margin-top: 0;    
   }
-  .demo-2 .sl-slider-wrapper {
+  .demo-2 .sl-slider-wrapper, .demo-2 .grid-wrapper  {
     height: 690px;
   }
   .mobileHeader{
@@ -939,4 +939,64 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
   height: auto;
   z-index: 0;
   background-position: center center;
+}
+.banner-box{
+  overflow: hidden;
+  height: 300px;
+  padding: 0;
+  border: 1px solid #ffffff;
+}
+.banner-box a{
+  display:block;
+}
+.banner-box img{
+  width: auto;
+  height: 300px;
+  left: -32%;
+  position: relative;
+}
+.banner-box h5{
+  height: 33%;
+  color: #ffffff;
+  background-color: rgba(11,145,199,0.7);
+  font-size: 20px;
+  font-weight: 600;
+  font-style: normal;
+  line-height: 25px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 20px 20px 20px 20px;
+  width: 100%;
+  height: auto;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+.item-modal-box{
+  overflow: hidden;
+  height: 400px;
+  padding: 0;
+}
+.item-modal-box img{
+  width: auto;
+  height: 400px;
+  left: -20%;
+  position: relative;
+}
+.item-modal-wrap .modal-body{
+padding: 0 15px;
+}
+.item-modal-wrap .contentText{
+  margin-top: 10px;
+}
+.item-modal-wrap .express{
+  font-size: 14px;
+}
+.item-modal-wrap .modal-dialog{
+  position: relative;
+  margin: 0 auto;
+  top: 25%;
+}
+.item-modal-wrap .modal-header h4{
+  font-weight: 600;
 }
