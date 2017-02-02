@@ -325,10 +325,10 @@ setTimeout(function(){
     <div class="modal-dialog modal-lg">
       <div class="modal-content col-sm-12">
       <div class="row">
-      <div class="col-sm-7 item-modal-box">
+      <div class="col-sm-6 item-modal-box">
         <img src="fullscreen-slider/images/webbanner-1.jpg" alt="">
       </div>
-      <div class="col-sm-5">
+      <div class="col-sm-6">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal">&times;</button>
           <h4 class="modal-title">Meet James Warner Brothers</h4>
@@ -354,10 +354,10 @@ setTimeout(function(){
     <div class="modal-dialog modal-lg">
       <div class="modal-content col-sm-12">
       <div class="row">
-      <div class="col-sm-7 item-modal-box">
+      <div class="col-sm-6 item-modal-box">
         <img src="fullscreen-slider/images/webbanner-2.jpg" alt="">
       </div>
-      <div class="col-sm-5">
+      <div class="col-sm-6">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal">&times;</button>
           <h4 class="modal-title">Find Akira &amp; Ocean</h4>
@@ -380,10 +380,10 @@ setTimeout(function(){
     <div class="modal-dialog modal-lg">
       <div class="modal-content col-sm-12">
       <div class="row">
-      <div class="col-sm-7 item-modal-box">
+      <div class="col-sm-6 item-modal-box">
         <img src="fullscreen-slider/images/webbanner-3.jpg" alt="">
       </div>
-      <div class="col-sm-5">
+      <div class="col-sm-6">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal">&times;</button>
           <h4 class="modal-title">Welcome Emma. Bid adieu Mrs. Jose.</h4>
@@ -413,10 +413,10 @@ setTimeout(function(){
     <div class="modal-dialog modal-lg">
       <div class="modal-content col-sm-12">
       <div class="row">
-      <div class="col-sm-7 item-modal-box">
+      <div class="col-sm-6 item-modal-box">
         <img src="fullscreen-slider/images/webbanner-4.jpg" alt="">
       </div>
-      <div class="col-sm-5">
+      <div class="col-sm-6">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal">&times;</button>
           <h4 class="modal-title">Rendezvous with Kris-Myra.</h4>
@@ -440,10 +440,10 @@ setTimeout(function(){
     <div class="modal-dialog modal-lg">
       <div class="modal-content col-sm-12">
       <div class="row">
-      <div class="col-sm-7 item-modal-box">
+      <div class="col-sm-6 item-modal-box">
         <img src="fullscreen-slider/images/webbanner-5.jpg" alt="">
       </div>
-      <div class="col-sm-5">
+      <div class="col-sm-6">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal">&times;</button>
           <h4 class="modal-title">Now the only stress in Life is his In-laws.</h4>
@@ -467,10 +467,10 @@ setTimeout(function(){
     <div class="modal-dialog modal-lg">
       <div class="modal-content col-sm-12">
       <div class="row">
-      <div class="col-sm-7 item-modal-box">
+      <div class="col-sm-6 item-modal-box">
         <img src="fullscreen-slider/images/webbanner-6.png" alt="">
       </div>
-      <div class="col-sm-5">
+      <div class="col-sm-6">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal">&times;</button>
           <h4 class="modal-title">Meet Emanuel and Ana.</h4>
@@ -496,10 +496,10 @@ setTimeout(function(){
     <div class="modal-dialog modal-lg">
       <div class="modal-content col-sm-12">
       <div class="row">
-      <div class="col-sm-7 item-modal-box">
+      <div class="col-sm-6 item-modal-box">
         <img src="fullscreen-slider/images/webbanner-7.png" alt="">
       </div>
-      <div class="col-sm-5">
+      <div class="col-sm-6">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal">&times;</button>
           <h4 class="modal-title">Say Hi to Isabelle &amp; Den.</h4>
@@ -524,10 +524,10 @@ setTimeout(function(){
     <div class="modal-dialog modal-lg">
       <div class="modal-content col-sm-12">
       <div class="row">
-      <div class="col-sm-7 item-modal-box">
+      <div class="col-sm-6 item-modal-box">
         <img src="fullscreen-slider/images/Young-Girl-with-Dog.jpg" alt="">
       </div>
-      <div class="col-sm-5">
+      <div class="col-sm-6">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal">&times;</button>
           <h4 class="modal-title">Discover Dorothy</h4>

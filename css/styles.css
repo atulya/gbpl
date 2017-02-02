@@ -954,6 +954,12 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
   height: 300px;
   left: -32%;
   position: relative;
+  transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+}
+.banner-box:hover img{
+  transform: scale(1.1);
+  -webkit-transform: scale(1.1);
 }
 .banner-box h5{
   height: 33%;
@@ -980,8 +986,11 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
 .item-modal-box img{
   width: auto;
   height: 400px;
-  left: -20%;
+  /*left: -20%;*/
   position: relative;
+}
+.item-modal-wrap{
+  padding: 0 !important;  
 }
 .item-modal-wrap .modal-body{
 padding: 0 15px;
@@ -1000,3 +1009,11 @@ padding: 0 15px;
 .item-modal-wrap .modal-header h4{
   font-weight: 600;
 }
+.item-modal-wrap .modal-lg{
+  height: 100%;
+  width: 100%;
+}
+.item-modal-wrap .modal-content{
+  border-radius: 0;
+}
+
