@@ -93,10 +93,10 @@ a {
   border-left: 1px solid #ccc;
 }
 .leftQuickLink a:last-child, .rightQuickLink a:last-child{
-  border: none; 
-  padding-right:0; 
+  border: none;
+  padding-right:0;
 }
-.leftQuickLink a:first-child{ 
+.leftQuickLink a:first-child{
   padding-left: 0;
 }
 .headerSection{
@@ -109,7 +109,7 @@ a {
   box-shadow: 0 2px 6px #969595;
   z-index: 5;
 }
-.nav { 
+.nav {
   padding-top: 30px;
   font-family:'Open Sans', sans-serif;;
 }
@@ -119,10 +119,10 @@ a {
 .nav li:last-child{
   border: 0;
 }
-.nav > li > a{ 
-  font-size: 15px; 
-  /*color: #fff; 
-  background-color: #005b97;*/ 
+.nav > li > a{
+  font-size: 15px;
+  /*color: #fff;
+  background-color: #005b97;*/
   /*padding: 0px 10px;*/
 }
 .caret{
@@ -156,7 +156,7 @@ a {
 .dropdown-menu>li>a{
   color: #1ba67c;
   line-height: 26px;
-  font-family:'Open Sans', sans-serif; 
+  font-family:'Open Sans', sans-serif;
 }
 .dropdownMenu>li>a{
   color:#000;
@@ -181,7 +181,7 @@ a {
 /*  height: 85%;*/
   position: relative;
   background-color: #f1f1f1;
-  z-index: -1;
+/*  z-index: -1;*/
 }
 .innerpageBanner{
   height: 400px;
@@ -203,7 +203,7 @@ a {
 .innerpageBanner img{
   width: 100%;
   height: 400px;
-  margin: 0 auto; 
+  margin: 0 auto;
 }
 .innerpageBanner h3 {
   position: absolute;
@@ -231,15 +231,15 @@ a {
 .bannerText h2{
   margin-bottom: 30px;
   font-size: 33px;
-  font-weight: 600; 
+  font-weight: 600;
 }
 .bannerText p{
   font-size: 14px;
   line-height: 30px;
 }
 .bannerProductLinks{
-  position:relative; 
-  width: 1170px; 
+  position:relative;
+  width: 1170px;
   margin:0 auto;
 }
 .productLink{
@@ -247,7 +247,7 @@ a {
   z-index: 999;
   margin: 0px 5px;
   background-color: rgba(255,255,255,1);
-  margin: 0px 4px; 
+  margin: 0px 4px;
 }
 .productLink img{
   padding: 10px;
@@ -263,7 +263,7 @@ a {
   bottom: 0px;
   left: 0;
   right: 0;
-  margin:0 auto; 
+  margin:0 auto;
   z-index: 1;
 }
 .bannerLinks .col-md-4{
@@ -297,7 +297,7 @@ footer{
   color: #fff;
   /*margin-bottom: 50px;*/
 }
-footer ul li{ 
+footer ul li{
   display: inline-block;
   font-size: 14px;
   padding-top: 30px;
@@ -308,14 +308,14 @@ footer ul li{
   text-transform: uppercase;
   line-height: 24px;
 }
-footer .secondRow ul { 
-  padding-bottom: 34px; 
+footer .secondRow ul {
+  padding-bottom: 34px;
 }
-footer ul li ul{ 
-  margin: 0; 
+footer ul li ul{
+  margin: 0;
   padding: 0;
 }
-footer ul li ul li{ 
+footer ul li ul li{
   display: block;
   padding: 0;
   font-family: 'Open Sans', sans-serif;
@@ -345,7 +345,7 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
   }
 }
 .carousel-inner{
-  background-color: #000; 
+  background-color: #000;
 }
 .carousel-inner>.item>img{
   opacity: 0.6;
@@ -366,13 +366,12 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
   display: inline-block;
 }
 .onePara{
-  line-height: 20px;
   display: inline-block;
 }
 .sideBar{
   list-style: none;
   margin: 0;
-  padding: 0;  
+  padding: 0;
 }
 .sideBar li a{
   border-radius: 0;
@@ -388,10 +387,10 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
   background-color: #005995;
   color: #fff;
   border-radius: 5px;
-  padding-left: 20px; 
+  padding-left: 20px;
 }
 .sideBar ul{
-  padding-left: 20px; 
+  padding-left: 20px;
 }
 .qualityPolicyBg{
   background-image: url(../images/quality-policy-bg.png);
@@ -401,11 +400,11 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
   border: 1px solid #005995;
   background-position: bottom;
 }
-.navbar-fixed {    
-  top: 0;    
-  z-index: 100;  
-  position: fixed;    
-  width: 100%; 
+.navbar-fixed {
+  top: 0;
+  z-index: 100;
+  position: fixed;
+  width: 100%;
 }
 
 .headerAboutus .active{
@@ -424,13 +423,13 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
   color: #387ce3;
 }
 .footerNavigation li a{
-  color: #61d446; 
+  color: #61d446;
 }
 .table-bordered>tbody>tr>td{
   font-size: 14px;
 }
 .table>tbody>tr>td{
-  padding: 6px; 
+  padding: 6px;
 }
 .table-heading td{
   font-size: 18px;
@@ -452,7 +451,7 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
   background: #1ba67c ;
 }
 .sidebarSlider{
-  margin: 15px 0 50px 0; 
+  margin: 15px 0 50px 0;
 }
 .innerContent h3{
   padding-bottom: 20px;
@@ -496,7 +495,7 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
   font-size: 21px;
   font-weight: 700;
   line-height: 1;
-  color: #fff;
+  /*color: #fff;*/
   text-shadow: 0
   filter: alpha(opacity=20);
   opacity: 1;
@@ -520,7 +519,7 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
 .lotusHubLogo{
   height: 200px;
   width: 200px;
-  margin: 0 auto; 
+  margin: 0 auto;
 }
 .sideContent .form-control{
   width: 230px;
@@ -619,7 +618,7 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
   display: none;
   height: 100px;
   width: 113px;
-  margin: 0 auto; 
+  margin: 0 auto;
 }
 .mobileCrum{
   position: absolute;
@@ -654,12 +653,12 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
 .mobileOverlay ul li{
   display: block;
   margin: 0;
-  padding: 10px 0; 
+  padding: 10px 0;
 }
 @media screen and (max-width: 1024px){
   body{
-    margin: 0px; 
-    padding: 0px; 
+    margin: 0px;
+    padding: 0px;
   }
   .demo-2 .sl-slider h2 {
     padding: 15px 15px 0 15px;
@@ -694,9 +693,9 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
     text-align: center;
   }
   .footerBckg ul{
-    margin-top: 0;    
+    margin-top: 0;
   }
-  .demo-2 .sl-slider-wrapper {
+  .demo-2 .sl-slider-wrapper, .demo-2 .grid-wrapper  {
     height: 690px;
   }
   .mobileHeader{
@@ -714,12 +713,12 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
   .innerpageBanner img{
     width: 100%;
     height: 125px;
-    margin: 0 auto; 
+    margin: 0 auto;
   }
 }
-  
-.nav-tabs>li.active>a, 
-.nav-tabs>li.active>a:focus, 
+
+.nav-tabs>li.active>a,
+.nav-tabs>li.active>a:focus,
 .nav-tabs>li.active>a:hover{
   color: #fff;
   cursor: default;
@@ -755,118 +754,118 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
   background-image:url(../images/snap-shot.png);
 }
 .bannerimg-family{
-  background-image:url(../images/Family.jpg); 
+  background-image:url(../images/Family.jpg);
 }
 .bannerimg-vision{
-  background-image:url(../images/vision-mission.png); 
+  background-image:url(../images/vision-mission.png);
 }
 .bannerimg-coreideology{
-  background-image:url(../images/core-ideology.png); 
+  background-image:url(../images/core-ideology.png);
 }
 .bannerimg-corevalues{
-  background-image:url(../images/core-values.png); 
+  background-image:url(../images/core-values.png);
 }
 .bannerimg-corestrength{
-  background-image:url(../images/core-strengths.png); 
+  background-image:url(../images/core-strengths.png);
 }
 .bannerimg-corporate-identity{
-  background-image:url(../images/corporate-identity.png); 
+  background-image:url(../images/corporate-identity.png);
 }
 .bannerimg-brand-logography{
-  background-image:url(../images/brand-logography.png); 
+  background-image:url(../images/brand-logography.png);
 }
 .bannerimg-social-responsiblity{
-  background-image:url(../images/social-responsiblity.png); 
+  background-image:url(../images/social-responsiblity.png);
 }
 .bannerimg-humanhealth-pro{
-  background-image:url(../images/human-health-promethus.png); 
+  background-image:url(../images/human-health-promethus.png);
 }
 .bannerimg-zooker-banner{
-  background-image:url(../images/zooker-banner.png); 
+  background-image:url(../images/zooker-banner.png);
 }
 .bannerimg-herbnatural-re{
-  background-image:url(../images/herbal-naturals-renaissant.png); 
+  background-image:url(../images/herbal-naturals-renaissant.png);
 }
 .bannerimg-hcsupplies-hemera{
-  background-image:url(../images/healthcare-supplies-hemera.png); 
+  background-image:url(../images/healthcare-supplies-hemera.png);
 }
 .bannerimg-researchinnovation{
-  background-image:url(../images/ResearchInnovation.jpg); 
+  background-image:url(../images/ResearchInnovation.jpg);
 }
 .bannerimg-manufacturing{
-  background-image:url(../images/manufacturing.jpg); 
+  background-image:url(../images/manufacturing.jpg);
 }
 .bannerimg-production{
-  background-image:url(../images/production-facilities.png); 
+  background-image:url(../images/production-facilities.png);
 }
 .bannerimg-competencies{
-  background-image:url(../images/manufacturing-competencies.png); 
+  background-image:url(../images/manufacturing-competencies.png);
 }
 .bannerimg-capabilities{
-  background-image:url(../images/manufacturing-capabilities.png); 
+  background-image:url(../images/manufacturing-capabilities.png);
 }
 .bannerimg-assurance{
-  background-image:url(../images/quality-capabilities-assurance.png); 
+  background-image:url(../images/quality-capabilities-assurance.png);
 }
 .bannerimg-quality-capabilities{
-  background-image:url(../images/quality-control-assurance.png); 
+  background-image:url(../images/quality-control-assurance.png);
 }
 .bannerimg-policy{
-  background-image:url(../images/quality-policy.png); 
+  background-image:url(../images/quality-policy.png);
 }
 .bannerimg-supplychain{
-  background-image:url(../images/SupplyChain.png); 
+  background-image:url(../images/SupplyChain.png);
 }
 .bannerimg-compliance{
-  background-image:url(../images/regulatory-compliance.png); 
+  background-image:url(../images/regulatory-compliance.png);
 }
 .bannerimg-promethusList{
-  background-image:url(../images/promethusBanner.png); 
+  background-image:url(../images/promethusBanner.png);
 }
 .bannerimg-zookerList{
-  background-image:url(../images/animal-care-zooker.png); 
+  background-image:url(../images/animal-care-zooker.png);
 }
 .bannerimg-renaissanList{
-  background-image:url(../images/renaissant.png); 
+  background-image:url(../images/renaissant.png);
 }
 .bannerimg-hemeraList{
-  background-image:url(../images/hemera.png); 
+  background-image:url(../images/hemera.png);
 }
 .bannerimg-techdev{
-  background-image:url(../images/technical-development.png); 
+  background-image:url(../images/technical-development.png);
 }
 .bannerimg-manufacturing{
-  background-image:url(../images/contract-manufacturing.png); 
+  background-image:url(../images/contract-manufacturing.png);
 }
 .bannerimg-techtransfer{
-  background-image:url(../images/technology-transfer.png); 
+  background-image:url(../images/technology-transfer.png);
 }
 .bannerimg-trade-supply{
-  background-image:url(../images/trade-supply.png); 
+  background-image:url(../images/trade-supply.png);
 }
 .bannerimg-key{
-  background-image:url(../images/turn-key-projects.png); 
+  background-image:url(../images/turn-key-projects.png);
 }
 .bannerimg-partnership{
-  background-image:url(../images/preferential-partnership.png); 
+  background-image:url(../images/preferential-partnership.png);
 }
 .bannerimg-global-sourcing{
-  background-image:url(../images/global-sourcing.png); 
+  background-image:url(../images/global-sourcing.png);
 }
 .bannerimg-globalnw{
-  background-image:url(../images/International-biz.jpg); 
+  background-image:url(../images/International-biz.jpg);
 }
 .bannerimg-indiabiz{
-  background-image:url(../images/india-business.png); 
+  background-image:url(../images/india-business.png);
 }
 .bannerimg-hr{
-  background-image:url(../images/human-resources.png); 
+  background-image:url(../images/human-resources.png);
 }
 .bannerimg-lifegbpl{
-  background-image:url(../images/life-at-gbpl.png); 
+  background-image:url(../images/life-at-gbpl.png);
 }
 .bannerimg-culture{
-  background-image:url(../images/culture.png); 
+  background-image:url(../images/culture.png);
 }
 /* Banner Text and Overlay */
 .caption-top{ padding-top: 60px;}
@@ -920,7 +919,7 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
   background: rgba(142,68,173,0.65);
 }
 .caption-box{ padding: 5px 15px; }
-.caption-box h3{  
+.caption-box h3{
   color: #fff;
   font-family: 'Quicksand', sans-serif;
   font-size: 28px;
@@ -931,7 +930,7 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
   padding: 5px 0;
 }
 .watermark{
-  background-image: url(../images/logo-watermark.png); 
+  background-image: url(../images/logo-watermark.png);
   background-repeat: no-repeat;
   left: 0;
   top: 50%;
@@ -939,4 +938,101 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
   height: auto;
   z-index: 0;
   background-position: center center;
+}
+.banner-box{
+  overflow: hidden;
+  height: 300px;
+  padding: 0;
+  border: 1px solid #ffffff;
+}
+.banner-box a{
+  display:block;
+}
+.banner-box img{
+  width: auto;
+  height: 300px;
+  /*left: -32%;*/
+  position: relative;
+  transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+}
+.banner-box:hover img{
+  transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+}
+.banner-box h5{
+  height: 33%;
+  color: #ffffff;
+  background-color: rgba(11,145,199,0.7);
+  font-size: 14px;
+  font-weight: 600;
+  font-style: normal;
+  line-height: 25px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 20px 20px 20px 20px;
+  width: 100%;
+  height: auto;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  transition: all 0.30s;
+}
+.banner-box:hover h5{
+  background-color: rgba(0,89,149,1);
+}
+.item-modal-box{
+  overflow: hidden;
+  height: 100vh;
+  padding: 0;
+}
+.item-modal-box img{
+  width: auto;
+  height: 400px;
+  /*left: -20%;*/
+  position: relative;
+}
+.item-modal-wrap{
+  padding: 0 !important;
+}
+.item-modal-wrap .modal-body{
+padding: 0 15px;
+}
+.item-modal-wrap .contentText{
+  margin-top: 10px;
+}
+.item-modal-wrap .modal-dialog{
+  position: relative;
+  margin: 0 auto;
+  /*top: 25%;*/
+}
+.item-modal-wrap .modal-header h4{
+  font-weight: 600;
+}
+.item-modal-wrap .modal-lg{
+  height: 100%;
+  width: 100%;
+}
+.item-modal-wrap .modal-content{
+  border-radius: 0;
+  height: 100vh
+}
+.modal .modal-header h4{
+  font-size: 32px;
+}
+.modal .modal-body .contentText {
+  font-size: 18px;
+  line-height: auto;
+}
+.contentText{
+  overflow: auto;
+  height: 100vh;
+}
+.homeBanner .bg-img{
+  background-size: 200%;
+  transition: all 1s;
+}
+.homeBanner .bg-img:hover{
+  background-size: 190%;
+  transition: all 1s;
 }
