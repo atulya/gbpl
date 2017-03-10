@@ -34,78 +34,13 @@ WHERE left_id = :left_id AND s.status = 0");
 $statement_div->execute(array(':left_id'=>$left_id));
 $div_count = $statement_div->rowCount();
 function getTitle($title_id){
+    $conn = new PDO('mysql:host=localhost;dbname=gbennett_life', "gbennett_user", "KZTi5tA5=!8[");
+    $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
     $title_name = "";
-    switch ($title_id){
-        case 1: $title_name = "Kids";
-            break;
-        case 2: $title_name = "Pregnant & Loctating Mothers";
-            break;
-        case 3: $title_name = "Glucose Management Powders";
-            break;
-        case 4: $title_name = "Malt Based Supplements";
-            break;
-        case 5: $title_name = "Glucose Management Diskettes";
-            break;
-        case 6: $title_name = "Women";
-            break;
-        case 7: $title_name = "Elderly";
-            break;
-        case 8: $title_name = "Liver Supplement";
-            break;
-        case 9: $title_name = "Cardiovascular Wellness";
-            break;
-        case 10: $title_name = "Bone & Joint";
-            break;
-        case 11: $title_name = "Intellect Promotor/Nootropics";
-            break;
-        case 12: $title_name = "Hair, Skin & Nails";
-            break;
-        case 13: $title_name = "Weight Management";
-            break;
-        case 14: $title_name = "Multivitamin & Antioxidant";
-            break;
-        case 15: $title_name = "Anxity, stress and mood";
-            break;
-        case 16: $title_name = "Vigour, vitality & sexual enhancement";
-            break;
-        case 17: $title_name = "Digestion & liver care";
-            break;
-        case 18: $title_name = "CardioVascular Wellness";
-            break;
-        case 19: $title_name = "Anti Oxidant";
-            break;
-        case 20: $title_name = "Ayurvadic & Herbal Product";
-            break;
-        case 21: $title_name = "Respioratory Health";
-            break;
-        case 22: $title_name = "Cosmeceaticals & Personal Care";
-            break;
-        case 23: $title_name = "Face care";
-            break;
-        case 24: $title_name = "Skin/Body Care";
-            break;
-        case 25: $title_name = "Skin Care";
-            break;
-        case 26: $title_name = "Oral Care";
-            break;
-        case 27: $title_name = "Body Care";
-            break;
-        case 28: $title_name = "General Care";
-            break;
-        case 29: $title_name = "Phytochemicals";
-            break;
-        case 30: $title_name = "Cosmeceuticals Ingradients";
-            break;
-        case 31: $title_name = "SCFE Products";
-            break;
-        case 32: $title_name = "Sproy Dried Powders";
-            break;
-        case 33: $title_name = "Natural Food colors";
-            break;
-        case 34: $title_name = "Oils & Oleoresins";
-            break;
-    }
-	return $title_name;
+	$title_statement = $conn->prepare("SELECT title FROM tbl_title WHERE id=:id");
+    $title_statement->execute(array(':id'=>$title_id));
+	$title_row = $title_statement->fetch(PDO::FETCH_ASSOC);
+	return $title_row['title'];
 }
 ?>
 <!DOCTYPE html>
@@ -118,16 +53,14 @@ function getTitle($title_id){
   </head>
   <body>
     <?php include "header.php"; ?>
-    <div class="innerpageBanner animated flipInX bannerimg-renaissanList">
-      <!-- <img src="images/renaissant.png" alt="promethus"> -->
+    <div class="innerpageBanner">
+      <img src="images/renaissant.png" alt="promethus">
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center caption-container caption-bottom">
-            <div class="caption-ovelay color-turquoise caption-box">
-              <h3>
-              Ailing &amp; Alleviating naturally. Assurity of  purity and potency. 
-              </h3>
-            </div>
+          <div class="col-md-12 text-center">
+            <h3>
+            Ailing &amp; Alleviating naturally. Assurity of  purity and potency. 
+            </h3>
           </div>
         </div>
       </div>

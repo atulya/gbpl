@@ -1,4 +1,4 @@
-<button type="button" style="right: 50px; position: fixed; z-index:1; top: 500px;" class="btn btn-primary" data-toggle="modal" data-target=".bs-requestaQuote-modal-lg">
+<button type="button" class="requestaquoteBtn" data-toggle="modal" data-target=".bs-requestaQuote-modal-lg">
   Request a Quote
 </button>
 <!-- Modal -->
