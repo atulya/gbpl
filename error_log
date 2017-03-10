@@ -239,3 +239,95 @@ Stack trace:
 [01-Jan-2017 10:47:20 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
 [02-Jan-2017 10:19:30 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
 [03-Jan-2017 06:22:50 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[13-Jan-2017 14:19:07 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[15-Jan-2017 13:25:37 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[17-Jan-2017 21:51:25 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[19-Jan-2017 14:36:39 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[20-Jan-2017 15:28:41 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[20-Jan-2017 15:29:04 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[20-Jan-2017 15:32:31 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[20-Jan-2017 15:38:16 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[20-Jan-2017 22:02:17 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[21-Jan-2017 23:30:10 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[21-Jan-2017 23:30:37 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[21-Jan-2017 23:31:32 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[21-Jan-2017 23:31:49 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[22-Jan-2017 13:26:29 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[23-Jan-2017 09:31:18 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/zookerList.php on line 7
+[23-Jan-2017 09:33:23 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/zookerList.php on line 7
+[23-Jan-2017 09:33:36 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/promethusList.php on line 7
+[23-Jan-2017 10:17:27 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[23-Jan-2017 23:09:18 Asia/Kolkata] PHP Warning:  include_once(Mail.php): failed to open stream: No such file or directory in /home/gbennettilife/public_html/culture.php on line 89
+[23-Jan-2017 23:09:18 Asia/Kolkata] PHP Warning:  include_once(): Failed opening 'Mail.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gbennettilife/public_html/culture.php on line 89
+[23-Jan-2017 23:09:18 Asia/Kolkata] PHP Warning:  include_once(Mail_Mime/mime.php): failed to open stream: No such file or directory in /home/gbennettilife/public_html/culture.php on line 90
+[23-Jan-2017 23:09:18 Asia/Kolkata] PHP Warning:  include_once(): Failed opening 'Mail_Mime/mime.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gbennettilife/public_html/culture.php on line 90
+[23-Jan-2017 23:10:00 Asia/Kolkata] PHP Warning:  include_once(Mail.php): failed to open stream: No such file or directory in /home/gbennettilife/public_html/culture.php on line 89
+[23-Jan-2017 23:10:00 Asia/Kolkata] PHP Warning:  include_once(): Failed opening 'Mail.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gbennettilife/public_html/culture.php on line 89
+[23-Jan-2017 23:10:00 Asia/Kolkata] PHP Warning:  include_once(Mail_Mime/mime.php): failed to open stream: No such file or directory in /home/gbennettilife/public_html/culture.php on line 90
+[23-Jan-2017 23:10:00 Asia/Kolkata] PHP Warning:  include_once(): Failed opening 'Mail_Mime/mime.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gbennettilife/public_html/culture.php on line 90
+[23-Jan-2017 23:10:20 Asia/Kolkata] PHP Warning:  include_once(Mail.php): failed to open stream: No such file or directory in /home/gbennettilife/public_html/culture.php on line 89
+[23-Jan-2017 23:10:20 Asia/Kolkata] PHP Warning:  include_once(): Failed opening 'Mail.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gbennettilife/public_html/culture.php on line 89
+[23-Jan-2017 23:10:20 Asia/Kolkata] PHP Warning:  include_once(Mail_Mime/mime.php): failed to open stream: No such file or directory in /home/gbennettilife/public_html/culture.php on line 90
+[23-Jan-2017 23:10:20 Asia/Kolkata] PHP Warning:  include_once(): Failed opening 'Mail_Mime/mime.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gbennettilife/public_html/culture.php on line 90
+[23-Jan-2017 23:12:02 Asia/Kolkata] PHP Warning:  include_once(Mail.php): failed to open stream: No such file or directory in /home/gbennettilife/public_html/culture.php on line 89
+[23-Jan-2017 23:12:02 Asia/Kolkata] PHP Warning:  include_once(): Failed opening 'Mail.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gbennettilife/public_html/culture.php on line 89
+[23-Jan-2017 23:12:02 Asia/Kolkata] PHP Warning:  include_once(Mail_Mime/mime.php): failed to open stream: No such file or directory in /home/gbennettilife/public_html/culture.php on line 90
+[23-Jan-2017 23:12:02 Asia/Kolkata] PHP Warning:  include_once(): Failed opening 'Mail_Mime/mime.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gbennettilife/public_html/culture.php on line 90
+[23-Jan-2017 23:12:29 Asia/Kolkata] PHP Warning:  include_once(Mail.php): failed to open stream: No such file or directory in /home/gbennettilife/public_html/culture.php on line 89
+[23-Jan-2017 23:12:29 Asia/Kolkata] PHP Warning:  include_once(): Failed opening 'Mail.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gbennettilife/public_html/culture.php on line 89
+[23-Jan-2017 23:12:29 Asia/Kolkata] PHP Warning:  include_once(Mail_Mime/mime.php): failed to open stream: No such file or directory in /home/gbennettilife/public_html/culture.php on line 90
+[23-Jan-2017 23:12:29 Asia/Kolkata] PHP Warning:  include_once(): Failed opening 'Mail_Mime/mime.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gbennettilife/public_html/culture.php on line 90
+[23-Jan-2017 23:17:24 Asia/Kolkata] PHP Warning:  require_once(./include/fgcontactform.php): failed to open stream: No such file or directory in /home/gbennettilife/public_html/uploadEmailForm/contactform.php on line 9
+[23-Jan-2017 23:17:24 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required './include/fgcontactform.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gbennettilife/public_html/uploadEmailForm/contactform.php on line 9
+[23-Jan-2017 23:18:29 Asia/Kolkata] PHP Warning:  require_once(./include/fgcontactform.php): failed to open stream: No such file or directory in /home/gbennettilife/public_html/uploadEmailForm/contactform.php on line 9
+[23-Jan-2017 23:18:29 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required './include/fgcontactform.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gbennettilife/public_html/uploadEmailForm/contactform.php on line 9
+[24-Jan-2017 10:32:01 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[24-Jan-2017 10:32:10 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[25-Jan-2017 04:36:13 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[25-Jan-2017 14:10:31 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[25-Jan-2017 14:53:56 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[25-Jan-2017 15:13:42 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[25-Jan-2017 15:35:28 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[25-Jan-2017 20:07:07 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[26-Jan-2017 09:32:22 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[26-Jan-2017 12:23:07 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/renaissantList.php on line 38
+[26-Jan-2017 12:23:23 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/renaissantList.php on line 38
+[26-Jan-2017 12:23:47 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/zookerList.php on line 38
+[26-Jan-2017 12:23:51 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/zookerList.php on line 38
+[26-Jan-2017 12:25:07 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/renaissantList.php on line 38
+[26-Jan-2017 12:25:21 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/renaissantList.php on line 38
+[26-Jan-2017 12:25:34 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/renaissantList.php on line 38
+[26-Jan-2017 12:30:41 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/renaissantList.php on line 38
+[26-Jan-2017 12:31:00 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/zookerList.php on line 38
+[26-Jan-2017 12:39:32 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/renaissantList.php on line 38
+[28-Jan-2017 05:13:22 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[28-Jan-2017 05:15:44 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[30-Jan-2017 20:57:03 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[02-Feb-2017 14:33:36 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[06-Feb-2017 04:57:22 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[06-Feb-2017 04:57:23 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[06-Feb-2017 04:57:23 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[06-Feb-2017 04:57:23 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[06-Feb-2017 13:45:55 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[06-Feb-2017 21:34:11 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[13-Feb-2017 19:59:40 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[13-Feb-2017 19:59:41 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[13-Feb-2017 19:59:42 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[13-Feb-2017 19:59:44 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[13-Feb-2017 19:59:46 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[13-Feb-2017 19:59:47 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[13-Feb-2017 19:59:49 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[13-Feb-2017 19:59:50 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[13-Feb-2017 19:59:52 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[13-Feb-2017 19:59:56 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[20-Feb-2017 19:36:38 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[20-Feb-2017 19:36:42 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[21-Feb-2017 05:22:40 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[21-Feb-2017 19:31:07 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[26-Feb-2017 17:27:04 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[04-Mar-2017 12:46:46 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[04-Mar-2017 18:32:48 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[10-Mar-2017 10:45:58 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[10-Mar-2017 10:46:09 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[10-Mar-2017 10:46:35 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4
+[10-Mar-2017 10:46:42 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/gbennettilife/public_html/weOffer.php on line 4

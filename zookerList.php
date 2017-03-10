@@ -33,6 +33,15 @@ INNER JOIN tbl_left AS l ON l.id = s.left_id
 WHERE left_id = :left_id AND s.status = 0");
 $statement_div->execute(array(':left_id'=>$left_id));
 $div_count = $statement_div->rowCount();
+function getTitle($title_id){
+    $conn = new PDO('mysql:host=localhost;dbname=gbennett_life', "gbennett_user", "KZTi5tA5=!8[");
+    $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+    $title_name = "";
+	$title_statement = $conn->prepare("SELECT title FROM tbl_title WHERE id=:id");
+    $title_statement->execute(array(':id'=>$title_id));
+	$title_row = $title_statement->fetch(PDO::FETCH_ASSOC);
+	return $title_row['title'];
+}
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -44,16 +53,14 @@ $div_count = $statement_div->rowCount();
   </head>
   <body>
     <?php include "header.php"; ?>
-    <div class="innerpageBanner animated flipInX bannerimg-zookerList">
-      <!-- <img src="images/animal-care-zooker.png" alt="promethus"> -->
+    <div class="innerpageBanner">
+      <img src="images/animal-care-zooker.png" alt="promethus">
       <div class="container">
         <div class="row">
-          <div class="col-md-12 text-center caption-container caption-bottom">
-            <div class="caption-ovelay color-black caption-box">
-              <h3>
-              Caressing companion to farm animals from head to toe
-              </h3>
-            </div> 
+          <div class="col-md-12 text-center">
+            <h3>
+            Caressing companion to farm animals from head to toe
+            </h3>
           </div>
         </div>
       </div>
@@ -92,6 +99,19 @@ $div_count = $statement_div->rowCount();
             $data_count = $statement_data->rowCount();
           ?>
           <?php if(isset($data_count)){ if($data_count>0){ $count = 0; while($row = $statement_data->fetch(PDO::FETCH_ASSOC)){  ?>
+          <?php if($row['title_id'] != 0){ ?>
+          <?php if($count == 0){ ?>
+          <tr class="table-heading">
+              <td colspan="4"><?php echo getTitle($row['title_id']); ?></td>
+          </tr>
+          <?php }else{ ?>
+            <?php if($row['title_id'] != $old_id){ ?>
+            <tr class="table-heading">
+                <td colspan="4"><?php echo getTitle($row['title_id']); ?></td>
+            </tr>
+            <?php } ?>
+          <?php } $old_id = $row['title_id']; ?>
+          <?php } ?>
           <tr>
             <td width="16"><?php echo ++$count; ?></td>
             <td width="463"><?php echo $row['title']; ?></td>

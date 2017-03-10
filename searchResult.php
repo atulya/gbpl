@@ -3,8 +3,12 @@
 <?php
 if(isset($_POST['searchRecord'])){
 	$key = $_POST["keyword"];
-	$product = $_POST["product_category"];
+	$product = $_POST["usage"];
+	$category = $_POST["category"];
 	$does_type = $_POST["does_type"];
+	if(!isset($category) OR $category == '0'){
+		$category = "%%";
+	}
 	if($product == 0){
 		$product = "";
 	}
@@ -17,7 +21,7 @@ $search_query = 'SELECT d.title, d.does_potency, d.does_type FROM tbl_data AS d
 INNER JOIN tbl_subtype AS s ON s.id = d.sub_id
 INNER JOIN tbl_left AS l ON l.id = s.left_id
 INNER JOIN tbl_root AS r ON r.id = l.root_id
-WHERE (d.title LIKE "%'.$key.'%" OR d.does_potency LIKE "%'.$key.'%" OR d.does_type LIKE "%'.$key.'%") AND d.does_type LIKE "%'.$does_type.'%" AND r.id LIKE "%'.$product.'%" LIMIT 0,75';
+WHERE (d.title LIKE "%'.$key.'%" OR d.does_potency LIKE "%'.$key.'%" OR d.does_type LIKE "%'.$key.'%") AND d.does_type LIKE "%'.$does_type.'%" AND s.id LIKE "'.$category.'" AND r.id LIKE "%'.$product.'%" LIMIT 0,75';
 $statement_search = $conn->prepare($search_query);
 	$result = $statement_search->execute();
 	$row_count = $statement_search->rowCount();
@@ -63,7 +67,7 @@ $statement_search = $conn->prepare($search_query);
       <table class="table table-bordered table-striped">
         <tbody>
           <tr class="table-heading">
-            <td rowspan="1" colspan="4"><?php if(isset($row_count)){ echo $row_count." Found."; } ?></td>
+            <td rowspan="1" colspan="4"><?php if(isset($row_count)){ echo $row_count." Result Found."; } ?></td>
           </tr>
           <?php if(isset($row_count)){ if($row_count>0){ $count = 0; while($row = $statement_search->fetch(PDO::FETCH_ASSOC)){  ?>
           <tr>

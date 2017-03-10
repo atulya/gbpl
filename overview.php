@@ -4,17 +4,26 @@
   <form method="POST" action="searchResult.php" name="search">
     <label for="Keywords">
     	Keywords	
-    	<input class="form-control" type="text" required="required" name="keyword" value="<?php if(isset($_POST['keyword'])){ echo $_POST['keyword']; } ?>" >
+    	<input class="form-control" type="text" name="keyword" value="<?php if(isset($_POST['keyword'])){ echo $_POST['keyword']; } ?>" >
     </label>
-    <label for="Product Category">
-    	Product Category	
-    	<select name="product_category" class="form-control">
-    		<option value="0">ANY Product Category</option>
-			<option value="1">PROMETHUS</option>
-			<option value="2">Renaissant</option>
-			<option value="3">Hemera</option>
-			<option value="4">Zooker</option>
-    	</select>
+	<label for="usage">
+    	Usage
+		<select onchange="fetchCategory()" id="usage" name="usage" class="form-control">
+		  <option value="0" <?php if(isset($_POST['usage'])){ if($_POST['usage'] == '0'){ echo 'selected'; } } ?>>Select Usage</option>
+		  <optgroup label="Human">
+			<option value="1" <?php if(isset($_POST['usage'])){ if($_POST['usage'] == '1'){ echo 'selected'; } } ?>>Promethus</option>
+			<option value="2" <?php if(isset($_POST['usage'])){ if($_POST['usage'] == '2'){ echo 'selected'; } } ?>>Renaissant</option>
+			<option value="3" <?php if(isset($_POST['usage'])){ if($_POST['usage'] == '3'){ echo 'selected'; } } ?>>Hemera</option>
+		  </optgroup>
+		  <optgroup label="Animal">
+			<option value="4" <?php if(isset($_POST['usage'])){ if($_POST['usage'] == '4'){ echo 'selected'; } } ?>>zooker</option>
+		  </optgroup>
+		</select>
+    </label>
+	<label for="category">
+    	Therapeutic Category	
+    	<select name="category" id="category" class="form-control">
+		</select>
     </label>
     <label for="Preparation/Form">
     	Preparation/Form	

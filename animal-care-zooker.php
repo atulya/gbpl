@@ -39,7 +39,7 @@
             <div class="text-center">
               <img src="images/Zooker-Logo_white-Bg.jpg" height="137px" alt="Zooker"/>
             </div>
-            <span>Human</span> Life is incomplete without Care. Care that is lasting and longing at its innermost core is always not manifested from our siblings alone, but many times from our fellow beings from nature such as companion animals like dogs/ cats /fish or farm animals like horses, chickens, cattle who care for us in their own ways.  Companions offer unconditional love and care till their last breath unreservedly while Farm animals offer us health and nourishment compromising on their life –all for us. 
+            <!-- <span>Human</span> Life is incomplete without Care. Care that is lasting and longing at its innermost core is always not manifested from our siblings alone, but many times from our fellow beings from nature such as companion animals like dogs/ cats /fish or farm animals like horses, chickens, cattle who care for us in their own ways.  Companions offer unconditional love and care till their last breath unreservedly while Farm animals offer us health and nourishment compromising on their life –all for us. 
             <br />
           </p>
           <p>
@@ -48,7 +48,16 @@
           </p>
            <p>
             <span>ZOOKER</span> provides a comprehensive range of animal-care products to enhance the health; well-being and performance of living for a wide range of animals and operates in 2 divisions:
-            <br />
+            <br /> -->
+            
+            <p>
+            
+<span>ZOOKER</span> is our commitment to the fellow care of these beings that are truly our Partners in real Life. They live and die for us—yet never demand or complain- rather stay muted across their journey of our life.  They can't communicate verbatim what's exactly their state of health, but God has gifted them uniquely with ways of expressing. Zooker remains passionately attentive to these manifestations and makes sure they stay healthy and happy. For Healthy animals are vital for global public health and make world a better habitat for the living. 
+</p><p>
+As the world population is on the rise, there is ever increasing demand for safe and high quality animal proteins such as milk, eggs, meat and fish products. To ensure this demand is consistently met, good and sustainable farming practices are necessary as well as veterinary medicines that prevent disease conditions, treat sick animals and control disease outbreaks.  
+</p><p>
+<span>ZOOKER</span> provides a comprehensive range of animal-care products for veterinarians and farmers to enhance the health; well being; performance and quality of living of a wide range of animals and operates in 2 divisions:
+            </p>
 
           </p>
           <table class="table table-striped table-bordered dt-responsive nowrap bulk_action" cellspacing="0" width="100%">
