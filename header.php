@@ -1,6 +1,6 @@
 <div class="mobileHeader">
 	<div class="mobileCrum mobileNavi"><i class="glyphicon glyphicon-th"></i></div>
-	<a href="/" class="text-center " style="display:block;"><img src="images/weblogo.png" height="100px" alt="gbpl logo"></a>
+	<a href="index.php" class="text-center " style="display:block;"><img src="images/weblogo.png" height="100px" alt="gbpl logo"></a>
 </div>
 <div class="mobileOverlay">
 	<!-- <a href="javascript:void(0);" class="mobileOverlayClose">Close</a> -->
@@ -215,7 +215,7 @@
 </ul>
 </div>
 <div class="col-md-2 text-center">
-<a href="/"><img src="images/weblogo.png" height="100px" alt="gbpl logo"></a>
+<a href="index.php"><img src="images/weblogo.png" height="100px" alt="gbpl logo"></a>
 </div>
 <div class="col-md-5">
 <ul class="nav nav-pills">

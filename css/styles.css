@@ -129,7 +129,7 @@ a {
   display: none;
 }
 .dropdown-menu{
-  background-color: rgba(34, 34, 34, 0.9);
+  /*background-color: rgba(34, 34, 34, 0.9);*/
 }
 .dropdownMenu {
   position: absolute;
@@ -163,17 +163,20 @@ a {
 }
 .dropdown-menu>li>a:hover {
   background: transparent;
-  color: #fff;
+  color: #555;
   text-decoration: underline;
 }
 .dropdown-menu>li>a:hover {
-  color: #fff;
+  color: #555;
+}
+.dropdown-menu>li>ul>li a{
+  text-transform: capitalize;
 }
 .dropdown-menu>li{
   border: 0;
 }
 .dropdown-menu li a:hover {
-  color: #fff;
+  color: #555;
   text-decoration: none;
 }
 
@@ -420,7 +423,7 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
   background-position: left;
 }
 .footerTitle{
-  color: #387ce3;
+  /*color: #387ce3;*/
 }
 .footerNavigation li a{
   color: #61d446;
@@ -484,8 +487,8 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
   height: 30px;
   width: 70px;
   position: absolute;
-  right: -10px;
-  top: 200px;
+  right: 15px;
+  bottom: 80px;
   font-size: 17px;
   color: #fff;
   z-index: 10;
@@ -577,6 +580,7 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
 .newsBand{
   background-color: #1ba67c;
   color: #fff;
+  padding-top: 5px;
 }
 #scrolltoTop{
   position: fixed;
