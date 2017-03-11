@@ -129,7 +129,7 @@ a {
   display: none;
 }
 .dropdown-menu{
-  /*background-color: rgba(34, 34, 34, 0.9);*/
+  background-color: rgba(34, 34, 34, 0.9);
 }
 .dropdownMenu {
   position: absolute;
