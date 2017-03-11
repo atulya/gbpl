@@ -486,7 +486,7 @@
 
             <div class="mText">
 
-              <iframe width="100%" height="640" src="https://www.youtube.com/embed/slxdBQIqq2U?controls=0&showinfo=0&rel=0&autoplay=1&loop=0&playlist=W0LHTWG-UmQ" frameborder="0" allowfullscreen></iframe>
+              <iframe width="100%" height="100%" src="https://www.youtube.com/embed/slxdBQIqq2U?controls=0&showinfo=0&rel=0&autoplay=1&loop=0&playlist=W0LHTWG-UmQ" frameborder="0" allowfullscreen></iframe>
 
               <!--         <video id="video1" class="video-js vjs-default-skin" width="100%" height="640" data-setup='{"controls" : false, "autoplay" : true, "preload" : "auto"}'>
 
