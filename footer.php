@@ -63,8 +63,7 @@
 </div>
 </footer>
 <div id="toggleItems">
-	<a href="javascript:void(0);" class="glyphicon glyphicon-chevron-up">
-	</a>
+	<a href="javascript:void(0);" class="glyphicon glyphicon-chevron-down"></a>
 </div>
 <div id="fixedNewsletter">
 <div class="wrapNs container">
@@ -83,16 +82,16 @@
 			<label for="check00" class="check_label">Promethus</label>
 			<input value="Renaissant" title="" class="radio" id="check01" name="check2" type="checkbox" checked>
 			<label for="check01" class="check_label">Renaissant</label>
-			
+
 			<input value="Hemera" title="" class="radio" id="check02" name="check3" type="checkbox" checked>
 			<label for="check02" class="check_label">Hemera</label>
 
 			<input value="Hemera" title="" class="radio" id="check02" name="check4" type="checkbox" checked>
 			<label for="check02" class="check_label">Zooker</label>
 			<br>
-			
+
 		</div>
-		
+
 	</div>
 	<div class="cfclear"></div>
 </div>
@@ -100,7 +99,7 @@
 	<div class="form_element cf_textbox">
 		<label class="cf_label" style="display: none;">Enter Your email address</label>
 		<input class="cf_inputbox required validate-email" maxlength="150" size="30" title="" id="email_add" name="email_add" type="text" style="color:#000" value="Enter email address" onfocus="if(this.value == 'Enter email address') { this.value = ''; }" onblur="if(this.value == '') { this.value = 'Enter email address'; }">
-		
+
 	</div>
 	<div class="cfclear"></div>
 </div>
@@ -128,6 +127,5 @@
 		alert("Letter Head is added Successfully.");
 	}
 </script>
-
 </body>
 </html>
