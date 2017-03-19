@@ -1,6 +1,9 @@
 <?php include 'connection.php'; ?>
 <?php include "routes.php"; ?>
 <?php
+
+$left_id="";
+
 if(isset($_GET['lid'])){
     $left_id = $_GET['lid'];
 }else{
@@ -72,8 +75,8 @@ function getTitle($title_id){
         <div class="col-md-3">
           <?php include "weOffer.php"; ?>
           <?php include "overview.php"; ?>
-          <?php include "sidebarSlider.php"; ?>          
-          
+          <?php include "sidebarSlider.php"; ?>
+
         </div>
         <div class="col-md-9">
             <h3>PROMETHUS - <?php if(isset($left_count)){ if($left_count>0){ $row =  $statement_title->fetch(); echo $row['left_type_name']; } } ?></h3>
@@ -86,7 +89,7 @@ function getTitle($title_id){
   <br>
   <div class="tab-content">
   <img src="http://previews.123rf.com/images/a454/a4541408/a454140800116/30383352-paper-box-on-white-isolated-background-packshot-in-studio--Stock-Photo.jpg" height="250px" width="875px" />
-  
+
     <?php if(isset($div_count)){ $count = 0; while($row = $statement_div->fetch(PDO::FETCH_ASSOC)){  ?>
     <div role="tabpanel" class="tab-pane <?php if($count == 0){ echo 'active'; } ?>" id="<?php echo $row['id']; ?>">
       <table class="table table-bordered watermark"><!--table-striped-->

@@ -1,6 +1,9 @@
 <?php include 'connection.php'; ?>
 <?php include "routes.php"; ?>
 <?php
+
+$left_id = "";
+
 if(isset($_GET['lid'])){
     $left_id = $_GET['lid'];
 }else{
@@ -72,8 +75,8 @@ function getTitle($title_id){
         <div class="col-md-3">
           <?php include "weOffer.php"; ?>
           <?php include "overview.php"; ?>
-          <?php include "sidebarSlider.php"; ?>          
-          
+          <?php include "sidebarSlider.php"; ?>
+
         </div>
         <div class="col-md-9">
             <h3>ZOOKER - <?php if(isset($left_count)){ if($left_count>0){ $row =  $statement_title->fetch(); echo $row['left_type_name']; } } ?></h3>

@@ -1,6 +1,7 @@
-<button type="button" class="requestaquoteBtn" data-toggle="modal" data-target=".bs-requestaQuote-modal-lg">
-  Request a Quote
-</button>
+<div class="container">
+<br><p><button type="button" class="requestaquoteBtn btn btn-info" data-toggle="modal" data-target=".bs-requestaQuote-modal-lg">Request a Quote
+</button></p>
+</div>
 <!-- Modal -->
 <div class="modal fade bs-requestaQuote-modal-lg" id="requestaQuote" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
   <div class="modal-dialog modal-lg" role="document">

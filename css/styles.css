@@ -106,7 +106,8 @@ a {
   top: 0;
   z-index: 999;
   /* border-bottom: 10px solid #4cb034; */
-  box-shadow: 0 2px 6px #969595;
+  /*box-shadow: 0 2px 6px #969595;*/
+  margin: 8px 0;
   z-index: 5;
 }
 .nav {
@@ -121,15 +122,19 @@ a {
 }
 .nav > li > a{
   font-size: 15px;
-  /*color: #fff;
-  background-color: #005b97;*/
-  /*padding: 0px 10px;*/
+  border-radius: 0;
 }
 .caret{
   display: none;
 }
 .dropdown-menu{
   background-color: rgba(34, 34, 34, 0.9);
+  border-radius: 0;
+}
+.required{
+  color: #ff0000;
+  font-size: 10px;
+  vertical-align: top;
 }
 .dropdownMenu {
   position: absolute;
@@ -158,8 +163,9 @@ a {
   line-height: 26px;
   font-family:'Open Sans', sans-serif;
 }
-.dropdownMenu>li>a{
-  color:#000;
+.dropdownMenu>li>a,
+.dropdown-menu>li>ul>li a{
+  color:#CCC;
 }
 .dropdown-menu>li>a:hover {
   background: transparent;
@@ -176,7 +182,7 @@ a {
   border: 0;
 }
 .dropdown-menu li a:hover {
-  color: #555;
+  color: #FFF;
   text-decoration: none;
 }
 
@@ -376,11 +382,18 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
   margin: 0;
   padding: 0;
 }
+.sideBar > li:last-child{
+  margin-bottom: 35px;
+}
+.sideBar ul li:last-child{
+  margin-bottom: 0;
+}
 .sideBar li a{
   border-radius: 0;
-  padding: 12px 0 12px 0;
-  /*border-bottom: 1px solid #ccc; */
-  background-image: url(../images/sidebarGradient.png);
+  padding: 5px 20px;
+  text-decoration: none;
+  border-bottom: 1px solid #ccc;
+  /*background-image: url(../images/sidebarGradient.png);*/
   background-repeat: no-repeat;
   background-position: left bottom;
   display: block;
@@ -389,11 +402,10 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
 .sideBar .navHeading{
   background-color: #005995;
   color: #fff;
-  border-radius: 5px;
   padding-left: 20px;
 }
 .sideBar ul{
-  padding-left: 20px;
+  /*padding-left: 20px;*/
 }
 .qualityPolicyBg{
   background-image: url(../images/quality-policy-bg.png);
@@ -580,7 +592,7 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
 .newsBand{
   background-color: #1ba67c;
   color: #fff;
-  padding-top: 5px;
+  padding: 5px 0;
 }
 #scrolltoTop{
   position: fixed;
@@ -928,7 +940,8 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
   font-family: 'Quicksand', sans-serif;
   font-size: 28px;
   width: 100%;
-  text-shadow: 0px 0px 5px #000;
+  /*text-shadow: 0px 0px 5px #000;*/
+  text-shadow: none;
   margin: 0 auto;
   position: inherit;
   padding: 5px 0;
@@ -968,10 +981,10 @@ footer .fa-linkedin-square { font-size: 40px; color: #005995; }
   height: 33%;
   color: #ffffff;
   background-color: rgba(11,145,199,0.7);
-  font-size: 14px;
-  font-weight: 600;
+  font-size: 15px;
+  text-transform: uppercase;
   font-style: normal;
-  line-height: 25px;
+  line-height: 20px;
   box-sizing: border-box;
   margin: 0px;
   padding: 20px 20px 20px 20px;
@@ -1033,10 +1046,5 @@ padding: 0 15px;
   height: 100vh;
 }
 .homeBanner .bg-img{
-  background-size: 200%;
-  transition: all 1s;
-}
-.homeBanner .bg-img:hover{
-  background-size: 190%;
-  transition: all 1s;
+  background-size: cover;
 }

@@ -83,7 +83,7 @@
 	text-indent: -90000px;
 	margin-top: -40px;
 	cursor: pointer;
-	
+
 	-webkit-transform: rotate(45deg);
 	-moz-transform: rotate(45deg);
 	-o-transform: rotate(45deg);
@@ -129,8 +129,8 @@
 	background: #ddd;
 	background: rgba(150,150,150,0.4);
 	cursor: pointer;
-	box-shadow: 
-		0 1px 1px rgba(255,255,255,0.4), 
+	box-shadow:
+		0 1px 1px rgba(255,255,255,0.4),
 		inset 0 1px 1px rgba(0,0,0,0.1);
 }
 
@@ -142,16 +142,16 @@
 	-ms-transition: all 0.2s;
 	-o-transition: all 0.2s;
 	transition: all 0.2s;
-	box-shadow: 
-		0 1px 1px rgba(255,255,255,0.4), 
+	box-shadow:
+		0 1px 1px rgba(255,255,255,0.4),
 		inset 0 1px 1px rgba(0,0,0,0.1),
 		0 0 0 2px rgba(255,255,255,0.5);
 }
 
 .demo-2 .nav-dots span.nav-dot-current,
 .demo-2 .nav-dots span:hover {
-	box-shadow: 
-		0 1px 1px rgba(255,255,255,0.4), 
+	box-shadow:
+		0 1px 1px rgba(255,255,255,0.4),
 		inset 0 1px 1px rgba(0,0,0,0.1),
 		0 0 0 5px rgba(255,255,255,0.5);
 }
@@ -365,34 +365,27 @@
 
 .demo-2 .bg-img-1 {
 	background-image: url(../images/webbanner-1.jpg);
-	opacity: 0.7;
 }
 .demo-2 .bg-img-2 {
 	background-image: url(../images/webbanner-2.jpg);
-	opacity: 0.9;
 }
 .demo-2 .bg-img-3 {
 	background-image: url(../images/webbanner-3.jpg);
-	opacity: 0.7;
 }
 .demo-2 .bg-img-4 {
 	background-image: url(../images/webbanner-4.jpg);
-	opacity: 0.7;
 }
 .demo-2 .bg-img-5 {
 	background-image: url(../images/webbanner-5.jpg);
-	opacity: 0.7;
 }
 .demo-2 .bg-img-6 {
 	background-image: url(../images/webbanner-6.png);
 }
 .demo-2 .bg-img-7 {
 	background-image: url(../images/webbanner-7.png);
-	opacity: 0.7;
 }
 .demo-2 .bg-img-8 {
 	background-image: url(../images/Young-Girl-with-Dog.jpg);
-	opacity: 0.7;
 }
 
 /* Animations for content elements */

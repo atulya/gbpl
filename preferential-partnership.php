@@ -14,9 +14,9 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12 text-center caption-container caption-top">
-            <div class="caption-ovelay color-blue caption-box">
+            <div class="caption-ovelay color-red caption-box">
               <h3>
-                 Together better &amp; faster 
+                 Together better &amp; faster
               </h3>
             </div>
           </div>
@@ -29,12 +29,12 @@
       <div class="col-md-3">
       <?php include "overview.php"; ?>
       <?php include "weServe.php"; ?>
-      <?php include "sidebarSlider.php"; ?>          
-      
+      <?php include "sidebarSlider.php"; ?>
+
         </div>
         <div class="col-md-9">
         <h3>Preferential Partnership</h3>
-          
+
 <p align="center"><strong class="brandGreenTextColor">Together, Better &amp; Faster</strong>&nbsp;</p>
 <p>Life is about growing. We believe in growth  that is transpired from the mutual progress.&nbsp;  We are passionate about translating science into effective product and  becoming a true, valued partner for ourcustomers. <br />
   GBennetti looks upon its customers as its  &ldquo;Partners in Progress&rdquo; and solicits a solid Partnership foundation that paves  way for long term and sustainable mutual growth.</p>
@@ -93,7 +93,7 @@
 
 
 
-  
+
 
 <?php include "usp.php"; ?>
 <a href="global-sourcing.php" class="pull-right">Next - Global Sourcing<i class="glyphicon glyphicon-chevron-right"></i></a>

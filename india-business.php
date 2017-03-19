@@ -16,7 +16,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12 text-center caption-container caption-bottom">
-            <div class="caption-ovelay color-blue caption-box">
+            <div class="caption-ovelay color-red caption-box">
               <h3>
                 Spearheading Indian Heritage
               </h3>
@@ -38,9 +38,9 @@
           <h3>Heading Three</h3> -->
           <h3> India business</h3>
           <p align="center"><img src="images/india-business-fig.png" alt="india-business-fig" height="400px"></p>
-          
+
           <p>
-            Resting on the bedrock of over 2 decades of man-years experience in the industry, GBennetti is setting its pace rapidly in Indian Pharmaceutical market. Having one of the most diversified product canvas from critical to chronic care segments, Gbennetti is striving relentlessly to establish its leadership in various therapeutic segments. The company has over 400+ potential products that meet the needs of the mass as well as the class. 
+            Resting on the bedrock of over 2 decades of man-years experience in the industry, GBennetti is setting its pace rapidly in Indian Pharmaceutical market. Having one of the most diversified product canvas from critical to chronic care segments, Gbennetti is striving relentlessly to establish its leadership in various therapeutic segments. The company has over 400+ potential products that meet the needs of the mass as well as the class.
           </p><p>
             Leveraging on this products strength and value chain relationships, GBennetti has carved out multi-pronged strategy to capture the market and strengthen its market position.
           <p>
@@ -62,9 +62,9 @@
               <div role="tabpanel" class="tab-pane" id="messages">
                 To reach to the general mass and make strong inception in the consumer or end-user minds, GBennetti is presently in the making of a 2-way missionary plan
               <br><br>
-                a) to establish outfit of pan-india generic stores(Meds4us) on franchising basis that shall cater to the supply of  quality generic products making them affordable to one and all 
+                a) to establish outfit of pan-india generic stores(Meds4us) on franchising basis that shall cater to the supply of  quality generic products making them affordable to one and all
               <br><br>
-                b) to bring together patients, chemists , diagnostic labs and doctors on single electronic healthcare platform(Selsius/SaQkr-H) that shall make healthcare easily accessible, available and affordable to all at a click of a button and thus a better experience. 
+                b) to bring together patients, chemists , diagnostic labs and doctors on single electronic healthcare platform(Selsius/SaQkr-H) that shall make healthcare easily accessible, available and affordable to all at a click of a button and thus a better experience.
               </div>
             </div>
 
@@ -73,8 +73,8 @@
             This strategic segmentation and undivided focused approach on niche as well as classified areas pursued through leveraged partnerships ensures that the company meets both ends smoothly (Topline and Bottomline) without much of liability in the domestic market. The result is mutual benefit arising from minimal risk ,minimal infrastructure, maximum profit and maximum capitalization of core competencies.
           <br><br>
             As a result Gbennetti is witnessing a strong brand equity mushrooming amidst medical fraternity. GBennetti aspires to achieve distinguished leadership position in the 4 core business areas of immunologics, cytologics, respiratory and dermatologics.
-          <br><br> 
-           
+          <br><br>
+
 
           </p>
 <?php include "usp.php"; ?>
