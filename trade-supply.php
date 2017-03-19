@@ -14,9 +14,9 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12 text-center caption-container caption-center">
-            <div class="caption-ovelay color-orange caption-box">
+            <div class="caption-ovelay color-red caption-box">
               <h3>
-              Generic supply to world leading institutions 
+              Generic supply to world leading institutions
               </h3>
             </div>
           </div>
@@ -29,8 +29,8 @@
         <div class="col-md-3">
         <?php include "overview.php"; ?>
           <?php include "weServe.php"; ?>
-          <?php include "sidebarSlider.php"; ?>          
-          
+          <?php include "sidebarSlider.php"; ?>
+
         </div>
         <div class="col-md-9">
         <h3>Trade Supply</h3>

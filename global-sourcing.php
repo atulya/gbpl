@@ -14,9 +14,9 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12 text-center caption-container caption-bottom">
-            <div class="caption-ovelay color-peacockBlue caption-box pull-left">
+            <div class="caption-ovelay color-red caption-box pull-left">
               <h3>
-                Low cost . high quality product-market access 
+                Low cost . high quality product-market access
               </h3>
             </div>
           </div>
@@ -29,8 +29,8 @@
       <div class="col-md-3">
       <?php include "overview.php"; ?>
           <?php include "goingGlobal.php"; ?>
-          <?php include "sidebarSlider.php"; ?>          
-          
+          <?php include "sidebarSlider.php"; ?>
+
         </div>
         <div class="col-md-9">
           <h3>Global Sourcing</h3>
@@ -41,7 +41,7 @@
             Our global supply-chain operates on a maxim is to deliver efficiently any healthcare product in demand to virtually any part of the world from the world’s most cost-effective source of supply. In order to let both ends of demand and supply meet cost-effectively, we are always on look out of skills or resources in deficit domestically, identifying alternate suppliers/vendors, escalating total supply capacity as well as plummeting the protracted lead times emerging from the risk of port shutdowns or sources disrupting supply.
             <br />
             <br />
-            At GBennetti, global sourcing initiative is fundamental component of its strategic operational canvas which on broader perspective aims to capitalize global efficiencies, seek economies of scale, reduce costs, fast-track market entry, stimulate healthy supply competition and ensure timely delivery of products there by adding value to the entire supply chain process. 
+            At GBennetti, global sourcing initiative is fundamental component of its strategic operational canvas which on broader perspective aims to capitalize global efficiencies, seek economies of scale, reduce costs, fast-track market entry, stimulate healthy supply competition and ensure timely delivery of products there by adding value to the entire supply chain process.
             <br />
             <br />
             The whole world is one global village. globalization has opened doors to global economies for availing benefits from certain aspects of socio economic trade, vizlow cost skilled labor, low cost production, tax breaks, low trade tariffs etc in the delivery of its products and services as well as inter-trade regional pacts in foreign exchange.

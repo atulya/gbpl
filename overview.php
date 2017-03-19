@@ -1,9 +1,10 @@
+<div class="search-content-wrapper">
 <h3>Search Products</h3>
 <div class="panel panel-default sideContent">
   <div class="panel-body text-left">
   <form method="POST" action="searchResult.php" name="search">
     <label for="Keywords">
-    	Keywords	
+    	Keywords
     	<input class="form-control" type="text" name="keyword" value="<?php if(isset($_POST['keyword'])){ echo $_POST['keyword']; } ?>" >
     </label>
 	<label for="usage">
@@ -21,12 +22,12 @@
 		</select>
     </label>
 	<label for="category">
-    	Therapeutic Category	
+    	Therapeutic Category
     	<select name="category" id="category" class="form-control">
 		</select>
     </label>
     <label for="Preparation/Form">
-    	Preparation/Form	
+    	Preparation/Form
     	<select name="does_type" class="form-control" size="1" style="display: block;">
 		<option value="0" selected="selected">ANY Preparation/Form</option>
 		<option value="Boluses">Boluses</option><option value="Capsules">Capsules</option>
@@ -51,4 +52,5 @@
     </label>
 	</form>
   </div>
+</div>
 </div>

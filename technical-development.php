@@ -14,7 +14,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12 text-center caption-container caption-top">
-            <div class="caption-ovelay color-blue caption-box">
+            <div class="caption-ovelay color-red caption-box">
               <h3>
               Small molecules to therapeutic proteins to herbal dosages
               </h3>
@@ -30,7 +30,7 @@
           <?php include "overview.php"; ?>
           <?php include "weServe.php"; ?>
           <?php include "sidebarSlider.php"; ?>
-          
+
         </div>
         <div class="col-md-9">
           <h3>Technical development</h3>
@@ -46,7 +46,7 @@
             </ul>
             <!-- Tab panes -->
             <div class="tab-content">
-              <div role="tabpanel" class="tab-pane active" id="home"> 
+              <div role="tabpanel" class="tab-pane active" id="home">
                 Our dedicated team of partnered formulation scientists provide for preformulation, formulation development and analytical development of diverse range of products from multiple specialties across various business driven technology solution platforms and thus accelerate the process of drug development.
                 We are able to optimize technical development including the stability and scalability of products from method utilization through to commercialization in constant manner and in consonance with marketing and time-line requirements so that product is placed fast into the market.
                 <h3>
@@ -219,7 +219,7 @@
             This includes therapeutic monoclonal antibodies, fusion proteins, enzymes, hormones, peptides and chimeric proteins that have significant potential for in vivo diagnosis therapeutics. <br><br>
             GBennetti alliance partner located strategically at Malaysia is an established pioneering player in scientific research of monoclonal, chimeric and bispecific antibody recombinant proteins with demonstrated capabilities to develop mAbs from conceptualization through to commercialization. Its Protein Science team offers fully integrated technology for developing and creating antibodies and for transforming non-human antibodies into HUMANISED form that can be safely administered into patients. <br><br>
             GBennetti partnership offers state of the art laboratories and equipment capabilities to develop and commercialize monoclonal and bispecific antibodies including <br>
-            
+
             <h3>Capabilities / Infrastructure</h3>
             <div class="table table-bordered" style="padding:20px; border-radius: 10px; ">
                 <ul>
@@ -416,7 +416,7 @@
     </div>
       </div>
     </div>
-    
+
     <p>GBennetti also facilitates commercial manufacture of the developed products through technology transfer and rapid scale up at shortest feasible timeframe, ensuring that product hits the market for fastest return on investment.  The ultimate goal of the technology transfer is to establish consistent production that:
       <ul>
         <li>
@@ -437,7 +437,7 @@
       </ul>
     Our average timeframe for completion of Technology Transfer and scale up is three to six months.  </p>
 <?php include "usp.php"; ?>
-<a href="contract-manufacturing.php" class="pull-right">Next - Contract Manufacturing<i class="glyphicon glyphicon-chevron-right"></i></a>    
+<a href="contract-manufacturing.php" class="pull-right">Next - Contract Manufacturing<i class="glyphicon glyphicon-chevron-right"></i></a>
   </div>
 </div>
 </div>

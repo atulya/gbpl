@@ -374,30 +374,24 @@
 
 .demo-2 .bg-img-1 {
 	background-image: url(../images/webbanner-1.jpg);
-	/*opacity: 1;*/
 }
 .demo-2 .bg-img-2 {
 	background-image: url(../images/webbanner-2.jpg);
-	/*opacity: 1;*/
 }
 .demo-2 .bg-img-3 {
 	background-image: url(../images/webbanner-3.jpg);
-	/*opacity: 1;*/
 }
 .demo-2 .bg-img-4 {
 	background-image: url(../images/webbanner-4.jpg);
-	/*opacity: 1;*/
 }
 .demo-2 .bg-img-5 {
 	background-image: url(../images/webbanner-5.jpg);
-	/*opacity: 1;*/
 }
 .demo-2 .bg-img-6 {
 	background-image: url(../images/webbanner-6.png);
 }
 .demo-2 .bg-img-7 {
 	background-image: url(../images/webbanner-7.png);
-	/*opacity: 1;*/
 }
 
 /* Animations for content elements */
